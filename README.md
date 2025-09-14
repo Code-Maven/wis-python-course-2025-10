@@ -5,7 +5,9 @@ Course number: 20263071
 * Direct link to [course information](https://erez.weizmann.ac.il/apx/r/ws1/186/30?pid=15468&pprev=15125)
 * Feinberg [Moodle](https://feinberg.weizmann.ac.il/)
 
-* Location: TBD
+* Location:
+    * First lecture in [Schmidt Hall](https://map.weizmann.ac.il/#ctdl-UMAP_2016030796281,BLD_2016071882971,FAC_2017051807768)
+    * The rest in Feinberg Building Class C.
 
 ## Students
 
