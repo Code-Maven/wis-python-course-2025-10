@@ -4,14 +4,14 @@ This is a beginner course suitable for anyone wanting to process scientific data
 
 ## Course objectives:
 
-* To provide a foundation to softwre development in Python.
+* To provide a foundation to software development in Python.
 * To be able to write programs in Python manually and using AI.
 * To be able to use the rich set of 3rd-party Python libraries.
 
 ## Course format:
 
 * 10 lectures of 4 academic hours each.
-* Extra video recordings to wathc.
+* Extra video recordings to watch.
 * Assignments
 * Project (or maybe projects)
 
@@ -45,7 +45,7 @@ and **not** in the order they are mentioned here.
         * [VS Code](https://code.visualstudio.com/) - application development.
         * [PyCharm](https://www.jetbrains.com/pycharm/)
         * [Notepad++](https://notepad-plus-plus.org/) and the command line.
-        * Command line aplications
+        * Command line applications
         * GUI (Tk)
         * Web base (Flask)
 
@@ -98,7 +98,7 @@ and **not** in the order they are mentioned here.
 
 * Regular expression (pattern matching)
 
-* Generic sceintific libraries
+* Generic scientific libraries
     * numpy
     * pandas
 
