@@ -185,7 +185,7 @@ Login to [Moodle](https://feinberg.weizmann.ac.il/) and you should be able to se
 
 ### Assignment (day 1)
 
-* [Watch](https://git.code-maven.com/creating-a-website-on-github-pages-using-markdown)
+* [Watch the 1st video](https://git.code-maven.com/creating-a-website-on-github-pages-using-markdown)
 * Create a web site for yourself using GitHub pages. Remember to use the repository name `USERNAME.github.io`. Get ideas from the pages of the students in the previus courses.
 
 * [Watch the 2nd video](https://git.code-maven.com/using-git-on-windows-in-vs-code).
