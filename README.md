@@ -188,6 +188,11 @@ Login to [Moodle](https://feinberg.weizmann.ac.il/) and you should be able to se
 * [Watch the 1st video](https://git.code-maven.com/creating-a-website-on-github-pages-using-markdown)
 * Create a web site for yourself using GitHub pages. Remember to use the repository name `USERNAME.github.io`. Get ideas from the pages of the students in the previus courses.
 
+Link to your profile and the lab you are currently in. e.g.
+[Liron](https://weizmann.elsevierpure.com/en/persons/liron-hoffman/) is in the [Yonatan Stelzer Lab](https://www.weizmann.ac.il/mcb/Stelzer/group-members)
+[Hadar](https://weizmann.elsevierpure.com/en/persons/hadar-klimovski/) is in the [Hornstein lab](https://www.weizmann.ac.il/molgen/hornstein/group-members).
+
+
 * [Watch the 2nd video](https://git.code-maven.com/using-git-on-windows-in-vs-code).
 * Create a separate public repository for all the assignments of the course. (e.g. call it `python-course-assignments`)
     * Create a folder called `day01`
@@ -195,5 +200,7 @@ Login to [Moodle](https://feinberg.weizmann.ac.il/) and you should be able to se
 
 Once they are ready open an issue on the GitHub repository of the course. The title of the issue should contain your full name and name of the assignment e.g. "Day1 by Foo Bar",
 in case your name is Foo Bar. In the issue include the link to the site, the link to the repository of the site, and the link to the repository of the assignment.
+
+In the same issue also include a few sentences explaining why do you take this course? What are your expectations? What do you need to use Python for?
 
 
