@@ -185,7 +185,7 @@ Login to [Moodle](https://feinberg.weizmann.ac.il/) and you should be able to se
 
 ### Assignment (day 1)
 
-* [Watch the 1st video](https://git.code-maven.com/creating-a-website-on-github-pages-using-markdown)
+* Watch the 1st video: [Creating a website on GitHub Pages using Markdown](https://git.code-maven.com/git-maven/creating-a-website-on-github-pages-using-markdown)
 * Create a web site for yourself using GitHub pages. Remember to use the repository name `USERNAME.github.io`. Get ideas from the pages of the students in the previus courses.
 
 Link to your profile and the lab you are currently in. e.g.
@@ -193,7 +193,7 @@ Link to your profile and the lab you are currently in. e.g.
 [Hadar](https://weizmann.elsevierpure.com/en/persons/hadar-klimovski/) is in the [Hornstein lab](https://www.weizmann.ac.il/molgen/hornstein/group-members).
 
 
-* [Watch the 2nd video](https://git.code-maven.com/using-git-on-windows-in-vs-code).
+* Watch the 2nd video: [Using Git on Windows in VS Code](https://git.code-maven.com/git-maven/using-git-on-windows-in-vs-code).
 * Create a separate public repository for all the assignments of the course. (e.g. call it `python-course-assignments`)
     * Create a folder called `day01`
     * In the folder create a program that will print "Hello World!"
