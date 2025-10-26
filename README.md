@@ -179,9 +179,17 @@ Login to [Moodle](https://feinberg.weizmann.ac.il/) and you should be able to se
     * The language: [Python](https://www.python.org/)
     * 3rd party libraries on [PyPI](https://pypi.org/) e.g. [Biopython](https://biopython.org/).
     * On GitHub
-* Version control
+* Version control (see the videos)
 * [GitHub](https://github.com/)
 * GitHub pages
+* Installations:
+    * [VS Code](https://code.visualstudio.com/download)
+    * [git](https://git-scm.com/)
+    * [uv](https://docs.astral.sh/uv/getting-started/installation/)
+    * Python using uv.
+* Connect to GitHub co-pilot.
+* Print Hello World - writing the code manually as I could not connect to co-pilot.
+
 
 ### Assignment (day 1)
 
@@ -202,5 +210,8 @@ Once they are ready open an issue on the GitHub repository of the course. The ti
 in case your name is Foo Bar. In the issue include the link to the site, the link to the repository of the site, and the link to the repository of the assignment.
 
 In the same issue also include a few sentences explaining why do you take this course? What are your expectations? What do you need to use Python for?
+If you don't know yourself, ask in the lab you are in what kind of things might be needed.
+
+* Dead-line: 2025.11.01 22:00
 
 
