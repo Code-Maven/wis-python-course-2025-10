@@ -13,6 +13,8 @@ Course number: 20263071
 
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
+| [Adib Masharqa](https://adibm02.github.io/adibm.github.io/)                | [repo](https://github.com/AdibM02/adibm.github.io)                     | [repo](https://github.com/AdibM02/python-course-assignments) |  |  |
+
 <!--
 | []()                | [repo]()                     | [repo]() |  |  |
 -->
