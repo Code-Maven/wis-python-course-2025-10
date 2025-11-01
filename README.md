@@ -23,6 +23,7 @@ Course number: 20263071
 | [Hallel Azulai](https://hallelaz.github.io/)                               | [repo](https://github.com/hallelaz/hallelaz.github.io)                 | [repo](https://github.com/hallelaz/python-course-assignments) |  |  |
 | [Noga Levinson](https://nogalev.github.io/)                                | [repo](https://github.com/nogalev/nogalev.github.io)                   | [repo](https://github.com/nogalev/wis-python-course) |  |  |
 | [Rony Holdengreber](https://ronyho3008.github.io/)                         | [repo](https://github.com/ronyho3008/ronyho3008.github.io)             | [repo](https://github.com/ronyho3008/python-course-assignments) |  |  |
+| [Shelly Gilad](https://shellygil.github.io/)                               | [repo](https://github.com/ShellyGil/ShellyGil.github.io)               | [repo](https://github.com/ShellyGil/python-course-assignments) |  |  |
 | [Yana Lerner](https://yanalerner10.github.io/)                             | [repo](https://github.com/YanaLerner10/yanalerner10.github.io)         | [repo](https://github.com/YanaLerner10/python-course-assignments/) |  |  |
 
 <!--
