@@ -15,6 +15,7 @@ Course number: 20263071
 | --------- | ---- | ----------- | ------- | ------ |
 | [Adib Masharqa](https://adibm02.github.io/adibm.github.io/)                | [repo](https://github.com/AdibM02/adibm.github.io)                     | [repo](https://github.com/AdibM02/python-course-assignments) |  |  |
 | [Evyatar Shaked](https://evyatar-shaked.github.io/)                        | [repo](https://github.com/Evyatar-shaked/Evyatar-shaked.github.io)     | [repo](https://github.com/Evyatar-shaked/Evyatar-Shaked_Assignments) |  |  |
+| [Guy Shemesh](https://guy-shemesh-weiz.github.io/)                         | [repo](https://github.com/guy-shemesh-weiz/guy-shemesh-weiz.github.io) | [repo](https://github.com/guy-shemesh-weiz/python-course-assignments) |  |  |
 | [Guy Vosco](https://guyvosco.github.io/)                                   | [repo](https://github.com/guyvosco/guyvosco.github.io)                 | [repo](https://github.com/guyvosco/python-course-assignments/tree/main) |  |  |
 | [Rony Holdengreber](https://ronyho3008.github.io/)                         | [repo](https://github.com/ronyho3008/ronyho3008.github.io)             | [repo](https://github.com/ronyho3008/python-course-assignments) |  |  |
 
