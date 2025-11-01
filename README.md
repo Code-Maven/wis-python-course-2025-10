@@ -37,6 +37,7 @@ Course number: 20263071
 | [Rachel Steinitz-Eliyahu](https://rachelitase.github.io/)                  | [repo](https://github.com/RachelitaSE/RachelitaSE.github.io)           | [repo](https://github.com/RachelitaSE/python-course-assignments) |  |  |
 | [Rony Holdengreber](https://ronyho3008.github.io/)                         | [repo](https://github.com/ronyho3008/ronyho3008.github.io)             | [repo](https://github.com/ronyho3008/python-course-assignments) |  |  |
 | [Shelly Gilad](https://shellygil.github.io/)                               | [repo](https://github.com/ShellyGil/ShellyGil.github.io)               | [repo](https://github.com/ShellyGil/python-course-assignments) |  |  |
+| [Shoshana Sernik](https://shoshisernik.github.io/)                         | [repo](https://github.com/shoshisernik/shoshisernik.github.io)         | [repo](https://github.com/shoshisernik/python-course-assignments) |  |  |
 | [Yana Lerner](https://yanalerner10.github.io/)                             | [repo](https://github.com/YanaLerner10/yanalerner10.github.io)         | [repo](https://github.com/YanaLerner10/python-course-assignments/) |  |  |
 
 <!--
