@@ -13,6 +13,7 @@ Course number: 20263071
 
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
+| [Adi Moses](https://adi-mo.github.io/)                                     | [repo](https://github.com/ADI-mo/ADI-mo.github.io)                     | [repo](https://github.com/ADI-mo/python-course-assignments-) |  |  |
 | [Adib Masharqa](https://adibm02.github.io/adibm.github.io/)                | [repo](https://github.com/AdibM02/adibm.github.io)                     | [repo](https://github.com/AdibM02/python-course-assignments) |  |  |
 | [Evyatar Shaked](https://evyatar-shaked.github.io/)                        | [repo](https://github.com/Evyatar-shaked/Evyatar-shaked.github.io)     | [repo](https://github.com/Evyatar-shaked/Evyatar-Shaked_Assignments) |  |  |
 | [Guy Shemesh](https://guy-shemesh-weiz.github.io/)                         | [repo](https://github.com/guy-shemesh-weiz/guy-shemesh-weiz.github.io) | [repo](https://github.com/guy-shemesh-weiz/python-course-assignments) |  |  |
