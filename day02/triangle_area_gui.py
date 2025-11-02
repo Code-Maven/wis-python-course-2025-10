@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 
-from triangle_area import triangle_area
+from shapes import triangle_area
 
 
 class TriangleAreaGUI:
