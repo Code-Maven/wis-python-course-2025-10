@@ -244,4 +244,11 @@ If you don't know yourself, ask in the lab you are in what kind of things might 
 
 * Dead-line: 2025.11.01 22:00
 
+### Amendment
+
+Using AI to solve the assignments? That's fine.
+However, in that case, please add a file called README.md in the `day01` folder of the repository you created for the assignments and put the name(s) of the AI system(s) and their version numbers along with the the prompt(s) you used in that file.
+
+* Dead-line: 2025.11.02 22:00
+
 
