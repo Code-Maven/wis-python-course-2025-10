@@ -263,11 +263,20 @@ However, in that case, please add a file called README.md in the `day01` folder 
 
 The students had one hour to practice and work on the assignment and already add it to the `day02` folder.
 
-* [Area of a circle](https://github.com/ADI-mo/python-course-assignments/blob/main/day02/yp.py)
-    * Variable names and function parameter names should be lower case.
+* Adi Moses
+    * [Area of a circle](https://github.com/ADI-mo/python-course-assignments/blob/main/day02/yp.py)
+        * Variable names and function parameter names should be lower case.
 * [DNA_complement](https://github.com/AdibM02/python-course-assignments/blob/main/day02/DNA_complement.py)
     * Use a dictionary to do this, use the `replace` method, or even better use a module to do this.
+* [DNA Sequence Validator & Translator](https://github.com/AileenCohen/Python_Course_Assignments/blob/main/Day02/Done_in_Class_Day02_Sequence_test.py)
+* [A Nice readme!](https://github.com/pantanvita/wis-python-2025/tree/main/day01)
+* Anvita Pant
+    * [rectangle](https://github.com/pantanvita/wis-python-2025/blob/main/day02/rectangle.py)
+    * [circle](https://github.com/pantanvita/wis-python-2025/blob/main/day02/circle.py)
+        * It is better to put as little code outside of functions as possible and and that should be after all the function definition better use an `if __name__ == '__main__':` condition.
 
+
+* Add some explanation of what does the project do?
 
 ### Assignment (day 2)
 
