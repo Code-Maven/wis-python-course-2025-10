@@ -323,10 +323,10 @@ General notes:
 * Put a file called `README.md` in which you will describe how you solved the assignment. If you use any AI tool, write down which AI tool you use, which version of it. If possible add a link to the tool. Write down the promotes you wrote. Only include the replies if you feel it is significantly adds to the understanding of the process. Use [GitHub Flavored Markdown](https://github.github.com/gfm/)
 
 * Implement some "interesting" computation. Create 3 different input mechanism. (interactive with `input`, `command line` as we saw in the last few minutes of the lecture and GUI.
-* What is "interesting", you might ask. Above you can see that many people implemented the area of a circle and rectangle that I mentioned in the class room. That's fine, but not too creative. Area of a trapeze is a bit better. Age calculator is also interesting. Way better are the "DNA Sequence Validator" and the LiBr mas and H2O volume calculators. Find something interesting in your lab, in your previous studies, or something totally unrelated and implement the 3 ways.
+* What is "interesting", you might ask. Above you can see that many people implemented the area of a circle and rectangle that I mentioned in the class room. That's fine, but not too creative. Area of a trapeze is a bit better. Age calculator is also interesting. Way better are the "DNA Sequence Validator" and the LiBr mas and H2O volume calculators. Find something interesting in your lab, in your previous studies, or something totally unrelated and implement it with the 3 ways of input.
 * Add a one-sentence explanation what does this do. Include a README file explaining your process. You can write the whole code manually or using AI, but share your prompts!
 
-Open a new issue on our repository titled "Day2 by Foo Bar", and include a link to your repository.
+* Open a new issue on our repository titled "Day2 by Foo Bar", and include a link to your repository.
 
 * Dead-line: 2025.11.09 22:00
 
