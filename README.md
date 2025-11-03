@@ -24,7 +24,7 @@ Course number: 20263071
 | [David Ganem](https://dvdgnm99.github.io/)                                 | [repo](https://github.com/DVDGNM99/DVDGNM99.github.io)                 | [repo](https://github.com/DVDGNM99/Python-assignments-main) |  |  |
 | [Einav Litvak](https://einavlitvak.github.io/)                             | [repo](https://github.com/einavlitvak/einavlitvak.github.io)           | [repo](https://github.com/einavlitvak/WIS-python-assignments-2025) |  |  |
 | [Evyatar Shaked](https://evyatar-shaked.github.io/)                        | [repo](https://github.com/Evyatar-shaked/Evyatar-shaked.github.io)     | [repo](https://github.com/Evyatar-shaked/Evyatar-Shaked_Assignments) |  |  |
-| [Guy Saller](https://guywis.github.io/)                                    | [repo](https://github.com/GuyWIS/GuyWIS.github.io)                     | [repo](https://github.com/GuyWIS/python-course-assignments/tree/main/day01) |  |  |
+| [Guy Saller](https://guywis.github.io/)                                    | [repo](https://github.com/GuyWIS/GuyWIS.github.io)                     | [repo](https://github.com/GuyWIS/python-course-assignments/) |  |  |
 | [Guy Shemesh](https://guy-shemesh-weiz.github.io/)                         | [repo](https://github.com/guy-shemesh-weiz/guy-shemesh-weiz.github.io) | [repo](https://github.com/guy-shemesh-weiz/python-course-assignments) |  |  |
 | [Guy Vosco](https://guyvosco.github.io/)                                   | [repo](https://github.com/guyvosco/guyvosco.github.io)                 | [repo](https://github.com/guyvosco/python-course-assignments/tree/main) |  |  |
 | [Hallel Azulai](https://hallelaz.github.io/)                               | [repo](https://github.com/hallelaz/hallelaz.github.io)                 | [repo](https://github.com/hallelaz/python-course-assignments) |  |  |
@@ -261,22 +261,61 @@ However, in that case, please add a file called README.md in the `day01` folder 
 
 ### In-class assignments
 
-The students had one hour to practice and work on the assignment and already add it to the `day02` folder.
+The students had one hour to practice and work on the assignment and already add it to the `day02` folder. I tried to collect the examples and add some comments so you can all learn from that.
+
+General notes:
+* Add some explanation of what does the project do?
 
 * Adi Moses
     * [Area of a circle](https://github.com/ADI-mo/python-course-assignments/blob/main/day02/yp.py)
         * Variable names and function parameter names should be lower case.
-* [DNA_complement](https://github.com/AdibM02/python-course-assignments/blob/main/day02/DNA_complement.py)
-    * Use a dictionary to do this, use the `replace` method, or even better use a module to do this.
-* [DNA Sequence Validator & Translator](https://github.com/AileenCohen/Python_Course_Assignments/blob/main/Day02/Done_in_Class_Day02_Sequence_test.py)
-* [A Nice readme!](https://github.com/pantanvita/wis-python-2025/tree/main/day01)
+* Adib Masharqa
+    * [DNA_complement](https://github.com/AdibM02/python-course-assignments/blob/main/day02/DNA_complement.py)
+* Aileen Cohen
+    * [DNA Sequence Validator & Translator](https://github.com/AileenCohen/Python_Course_Assignments/blob/main/Day02/Done_in_Class_Day02_Sequence_test.py)
+        * It is better to separate UI related code and "business"-related code.
 * Anvita Pant
+    * [A very nice readme!](https://github.com/pantanvita/wis-python-2025/tree/main/day01)
     * [rectangle](https://github.com/pantanvita/wis-python-2025/blob/main/day02/rectangle.py)
     * [circle](https://github.com/pantanvita/wis-python-2025/blob/main/day02/circle.py)
         * It is better to put as little code outside of functions as possible and and that should be after all the function definition better use an `if __name__ == '__main__':` condition.
+* Ariel Hindi
+    * [circle in GUI as well](https://github.com/arielhindi/Python-Course-Assignments/tree/main/day02)
+* Avigail Yariv
+    * [Age calculator](https://github.com/AvigailYariv/python-course-assignments/blob/main/day02/class_assignment/age_model.py)
+        * Has type annotations!
+        * Code separation into various files.
+* Daniela Huppert Revach
+    * [circle, also with GUI](https://github.com/Danielahuppert/python-course-assignments/tree/main/day02)
+* David Ganem
+    * [AI in Italian](https://github.com/DVDGNM99/Python-assignments-main/blob/main/day%2002/notes.md)
+    * [area of a rectangle using GUI](https://github.com/DVDGNM99/Python-assignments-main/blob/main/day%2002/first_program.py)
+    * [area of circle](https://github.com/DVDGNM99/Python-assignments-main/blob/main/day%2002/area_circle_assigment.py)
+        * It is probably a better idea to use English variable and function names. (not raggio, area_cerchio, etc.) ti make the code accessible to people who don't know Italian. You can probably tell the AI to always use English words in the code.
+* Einav Litvak
+    * [area of a trapeze](https://github.com/einavlitvak/WIS-python-assignments-2025/blob/main/Day2/Trapeze_area.py)
+    * [area of a trapeze GUI](https://github.com/einavlitvak/WIS-python-assignments-2025/blob/main/Day2/Trapeze_area_gui.py)
+* Evyatar Shaked
+    * [area of circle GUI](https://github.com/Evyatar-shaked/Evyatar-Shaked_Assignments/blob/main/day02/circle_area.py)
+* Guy Vosco
+    * [circle area - nice and short!](https://github.com/guyvosco/python-course-assignments/blob/main/day02/circle_area.py)
+    * [circle area GUI](https://github.com/guyvosco/python-course-assignments/blob/main/day02/circle_area_gui.py)
+* Hallel Azulai
+    * [area of circle](https://github.com/hallelaz/python-course-assignments/blob/main/day02/day2.py)
+* Inbar Perets
+    * [circle area GUI](https://github.com/InbarPe/python-course-assignments/blob/main/day02/circle_area.py)
+* Lior Batat
+    * [circle area calculator GUI](https://github.com/liorbet13/python-course-assignments/blob/main/day02/circle_area_calculator.py)
+* Neta Hanuka
+    * [circle area](https://github.com/NetaHT/python-course-assignments-2025/blob/main/day02/circle_area.py)
+    * [circle area GUI](https://github.com/NetaHT/python-course-assignments-2025/blob/main/day02/GUI_circle_area.py)
+* Noam Ariel
+    * [a file reading eample](https://github.com/NoamAriel/python-course-assignments/blob/main/day02/hello_world.py)
+    * [Calculate the required LiBr mass to achieve a desired LiBr concentration.](https://github.com/NoamAriel/python-course-assignments/blob/main/day02/LiBr_con_mass_LiBr.py)
+    * [Calculate the required H2O volume to achieve a desired LiBr concentration](https://github.com/NoamAriel/python-course-assignments/blob/main/day02/LiBr_con_volume_H2O.py)
 
 
-* Add some explanation of what does the project do?
+
 
 ### Assignment (day 2)
 
