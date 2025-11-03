@@ -81,14 +81,14 @@ Course number: 20263071
 
 There will be assignments after every lecture. You will submit them via GitHub.
 
-* Create a public reposiotry on GitHub for the assignments.
+* Create a public repository on GitHub for the assignments.
 * Add a `README.md` with some explanation what is this about.
 * For each assignment create a folder in the format of `dayXX` such as `day01` and put the necessary files in that folder.
 * Once you pushed out the solution to GitHub open a new issue on this repo (our shared repository) with a title:
     * `Day01 by Foo Bar`  (when you submit your assignment for Day01 and if your name is Foo Bar)
     * In the body include a link to the repository.
 
-* The Teaching Assistents and lecturer will comment on these issues.
+* The Teaching Assistants and lecturer will comment on these issues.
 
 ### Extensions
 
@@ -102,14 +102,14 @@ First you will need to submit a proposal for the project and when it is accepted
 The project should be something that is useful for your studies or at least it is fun for you to make.
 Ask in the lab where you work what needs are there that you might implement as your final project.
 You can get inspiration from the projects [listed here](https://code-maven.com/programming-bootcamp-for-scientists)
-and the preojects from the previous semesters:
+and the projects from the previous semesters:
 * [2023 autumn semester](https://github.com/szabgab/wis-python-bootcamp-2023-12)
 * [2024 spring semester](https://github.com/szabgab/wis-python-course-2024-04)
 * [2024 autumn semester](https://github.com/szabgab/wis-python-course-2024-11)
 * [2025 spring semester](https://github.com/code-Maven/wis-python-course-2025-03)
 
 The idea of the project is that you write something that is going to be useful for you beyond the course. e.g. There is some manual work in your lab and this project will automate it.
-It can be also a tool to help you with your research. etc. It can also be useful in your private life. e.g. we had projects trying to register for visa applications at the USA embasy
+It can be also a tool to help you with your research. etc. It can also be useful in your private life. e.g. we had projects trying to register for visa applications at the USA embassy
 and we also had games.
 
 You can even take an existing project and make some valuable improvements to that project. (e.g. one project from one of the previous courses).
@@ -225,7 +225,7 @@ Login to [Moodle](https://feinberg.weizmann.ac.il/) and you should be able to se
 ### Assignment (day 1)
 
 * Watch the 1st video: [Creating a website on GitHub Pages using Markdown](https://git.code-maven.com/git-maven/creating-a-website-on-github-pages-using-markdown)
-* Create a web site for yourself using GitHub pages. Remember to use the repository name `USERNAME.github.io`. Get ideas from the pages of the students in the previus courses.
+* Create a web site for yourself using GitHub pages. Remember to use the repository name `USERNAME.github.io`. Get ideas from the pages of the students in the previous courses.
 
 Link to your profile and the lab you are currently in. e.g.
 [Liron](https://weizmann.elsevierpure.com/en/persons/liron-hoffman/) is in the [Yonatan Stelzer Lab](https://www.weizmann.ac.il/mcb/Stelzer/group-members)
@@ -256,7 +256,7 @@ However, in that case, please add a file called README.md in the `day01` folder 
 
 * We used Co-pilot to create a program that calculated the area of a triangle.
 * Getting input from the user in an interactive way using the `input` function.
-* Creaeting a GUI using Python / Tk.
+* Creating a GUI using Python / Tk.
 * At the end we created a command line version of it.
 
 ### In-class assignments
@@ -310,21 +310,24 @@ General notes:
     * [circle area](https://github.com/NetaHT/python-course-assignments-2025/blob/main/day02/circle_area.py)
     * [circle area GUI](https://github.com/NetaHT/python-course-assignments-2025/blob/main/day02/GUI_circle_area.py)
 * Noam Ariel
-    * [a file reading eample](https://github.com/NoamAriel/python-course-assignments/blob/main/day02/hello_world.py)
+    * [a file reading example](https://github.com/NoamAriel/python-course-assignments/blob/main/day02/hello_world.py)
     * [Calculate the required LiBr mass to achieve a desired LiBr concentration.](https://github.com/NoamAriel/python-course-assignments/blob/main/day02/LiBr_con_mass_LiBr.py)
     * [Calculate the required H2O volume to achieve a desired LiBr concentration](https://github.com/NoamAriel/python-course-assignments/blob/main/day02/LiBr_con_volume_H2O.py)
-
+* ... Still working on more
 
 
 
 ### Assignment (day 2)
 
-* Create a folder called `day02`
-* Put a file called `README.md` in which you will describe how you solved the assginment. If you use any AI tool, write down which AI tool you use, which version of it. If possible add a link to the tool. Write down the promtes you wrote. Only include the replies if you feel it is significanly adds to the understanding of the process. Use [GitHub Flavored Markdown](https://github.github.com/gfm/)
+* If you don't have it yet create a folder called `day02`.
+* Put a file called `README.md` in which you will describe how you solved the assignment. If you use any AI tool, write down which AI tool you use, which version of it. If possible add a link to the tool. Write down the promotes you wrote. Only include the replies if you feel it is significantly adds to the understanding of the process. Use [GitHub Flavored Markdown](https://github.github.com/gfm/)
 
-TBD
+* Implement some "interesting" computation. Create 3 different input mechanism. (interactive with `input`, `command line` as we saw in the last few minutes of the lecture and GUI.
+* What is "interesting", you might ask. Above you can see that many people implemented the area of a circle and rectangle that I mentioned in the class room. That's fine, but not too creative. Area of a trapeze is a bit better. Age calculator is also interesting. Way better are the "DNA Sequence Validator" and the LiBr mas and H2O volume calculators. Find something interesting in your lab, in your previous studies, or something totally unrelated and implement the 3 ways.
+* Add a one-sentence explanation what does this do. Include a README file explaining your process. You can write the whole code manually or using AI, but share your prompts!
 
+Open a new issue on our repository titled "Day2 by Foo Bar", and include a link to your repository.
 
-* Dead-line: 2025.11.02 22:00
+* Dead-line: 2025.11.09 22:00
 
 
