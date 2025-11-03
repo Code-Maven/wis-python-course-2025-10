@@ -313,17 +313,35 @@ General notes:
     * [a file reading example](https://github.com/NoamAriel/python-course-assignments/blob/main/day02/hello_world.py)
     * [Calculate the required LiBr mass to achieve a desired LiBr concentration.](https://github.com/NoamAriel/python-course-assignments/blob/main/day02/LiBr_con_mass_LiBr.py)
     * [Calculate the required H2O volume to achieve a desired LiBr concentration](https://github.com/NoamAriel/python-course-assignments/blob/main/day02/LiBr_con_volume_H2O.py)
-* ... Still working on more
-
-
+* Rachel Steinitz-Eliyahu
+    * [rectangle](https://github.com/RachelitaSE/python-course-assignments/blob/main/day02/rectangle.py)
+    * [rectangle cli](https://github.com/RachelitaSE/python-course-assignments/blob/main/day02/rectangle_cil.py)
+        * It is better not to import everything with a `*` but the specific things you need : `from shapes import rectangle_area`
+* Raz Leibson
+    * [example data](https://github.com/razlei25/python-course-assignments/tree/main/day01/Example_data)
+    * [cricle area GUI](https://github.com/razlei25/python-course-assignments/blob/main/day02/circle_area_calculator.py)
+* Rony Holdengreber
+    * [circle area GUI - manually?!](https://github.com/ronyho3008/python-course-assignments/blob/main/day02/lesson.py)
+        * It looks much simple as it seems this was created manually and not by using AI.
+* Sana Khatib
+    * [Zodiac profile GUI](https://github.com/sanakhatib4/sana-python-course-assignments2026/blob/main/day02/assignment2.py)
+        * Wonderful. One needs to install `ephem` and `pillow` to make it work.
+* Shelly Gilad
+    * [nice readme](https://github.com/ShellyGil/python-course-assignments/tree/main/day01)
+* Sriashwin Sridharan
+    * [circle area in 3 ways](https://github.com/Srriash/Srriash_WISasgn_2025/tree/main/Day_02)
+* Yana Lerner
+    * [prompts](https://github.com/YanaLerner10/python-course-assignments/blob/main/day01/chatgpt_help.md)
+    * [circle area in 2 ways](https://github.com/YanaLerner10/python-course-assignments/tree/main/day02)
 
 ### Assignment (day 2)
 
 * If you don't have it yet create a folder called `day02`.
 * Put a file called `README.md` in which you will describe how you solved the assignment. If you use any AI tool, write down which AI tool you use, which version of it. If possible add a link to the tool. Write down the promotes you wrote. Only include the replies if you feel it is significantly adds to the understanding of the process. Use [GitHub Flavored Markdown](https://github.github.com/gfm/)
 
+* Try to run the examples written by othefs, especially the unique ones: (DNA, LiBR, H2O, Zodiac).
 * Implement some "interesting" computation. Create 3 different input mechanism. (interactive with `input`, `command line` as we saw in the last few minutes of the lecture and GUI.
-* What is "interesting", you might ask. Above you can see that many people implemented the area of a circle and rectangle that I mentioned in the class room. That's fine, but not too creative. Area of a trapeze is a bit better. Age calculator is also interesting. Way better are the "DNA Sequence Validator" and the LiBr mas and H2O volume calculators. Find something interesting in your lab, in your previous studies, or something totally unrelated and implement it with the 3 ways of input.
+* What is "interesting", you might ask. Above you can see that many people implemented the area of a circle and rectangle that I mentioned in the class room. That's fine, but not too creative. Area of a trapeze is a bit better. Age calculator is also interesting. Way better are the "DNA Sequence Validator" and the LiBr mas and H2O volume calculators. The Zodiac profile GUI is very nice! Find something interesting in your lab, in your previous studies, or something totally unrelated and implement it with the 3 ways of input. You can even try to have your data in a file and make your code read from a file.
 * Add a one-sentence explanation what does this do. Include a README file explaining your process. You can write the whole code manually or using AI, but share your prompts!
 
 * Open a new issue on our repository titled "Day2 by Foo Bar", and include a link to your repository.
