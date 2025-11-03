@@ -252,4 +252,31 @@ However, in that case, please add a file called README.md in the `day01` folder 
 
 * Dead-line: 2025.11.02 22:00
 
+## Day 2
+
+* We used Co-pilot to create a program that calculated the area of a triangle.
+* Getting input from the user in an interactive way using the `input` function.
+* Creaeting a GUI using Python / Tk.
+* At the end we created a command line version of it.
+
+### In-class assignments
+
+The students had one hour to practice and work on the assignment and already add it to the `day02` folder.
+
+* [Area of a circle](https://github.com/ADI-mo/python-course-assignments/blob/main/day02/yp.py)
+    * Variable names and function parameter names should be lower case.
+* [DNA_complement](https://github.com/AdibM02/python-course-assignments/blob/main/day02/DNA_complement.py)
+    * Use a dictionary to do this, use the `replace` method, or even better use a module to do this.
+
+
+### Assignment (day 2)
+
+* Create a folder called `day02`
+* Put a file called `README.md` in which you will describe how you solved the assginment. If you use any AI tool, write down which AI tool you use, which version of it. If possible add a link to the tool. Write down the promtes you wrote. Only include the replies if you feel it is significanly adds to the understanding of the process. Use [GitHub Flavored Markdown](https://github.github.com/gfm/)
+
+TBD
+
+
+* Dead-line: 2025.11.02 22:00
+
 
