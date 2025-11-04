@@ -13,9 +13,9 @@ Course number: 20263071
 
 | Home page | Repo | Assignments | Lab | Project |
 | --------- | ---- | ----------- | ------- | ------ |
-| [Achinoam Shoham](https://achinoamsho.github.io/)                          | [repo](https://github.com/achinoamSho/achinoamsho.github.io)           | [repo](https://github.com/achinoamSho/python-course-assignments) | [Naama Barkai Lab](https://barkailab.wixsite.com/barkai) |  |
-| [Adi Moses](https://adi-mo.github.io/)                                     | [repo](https://github.com/ADI-mo/ADI-mo.github.io)                     | [repo](https://github.com/ADI-mo/python-course-assignments-) |  |  |
-| [Adib Masharqa](https://adibm02.github.io/adibm.github.io/)                | [repo](https://github.com/AdibM02/adibm.github.io)                     | [repo](https://github.com/AdibM02/python-course-assignments) |  |  |
+| [Achinoam Shoham](https://achinoamsho.github.io/)                          | [repo](https://github.com/achinoamSho/achinoamsho.github.io)           | [repo](https://github.com/achinoamSho/python-course-assignments) | [Naama Barkai Lab - Department of Molecular Genetics](https://barkailab.wixsite.com/barkai) |  |
+| [Adi Moses](https://adi-mo.github.io/)                                     | [repo](https://github.com/ADI-mo/ADI-mo.github.io)                     | [repo](https://github.com/ADI-mo/python-course-assignments-) | [The Segev Lab - Microbial Physiology in an Environmental Context](https://www.weizmann.ac.il/plants/segev/) |  |
+| [Adib Masharqa](https://adibm02.github.io/adibm.github.io/)                | [repo](https://github.com/AdibM02/adibm.github.io)                     | [repo](https://github.com/AdibM02/python-course-assignments) | [The Elson Lab - Bone Biology in Health and Disease](https://www.weizmann.ac.il/molgen/Elson/) |  |
 | [Aileen Cohen](https://aileencohen.github.io/)                             | [repo](https://github.com/AileenCohen/AileenCohen.github.io)           | [repo](https://github.com/AileenCohen/Python_Course_Assignments) |  |  |
 | [Anvita Pant](https://pantanvita.github.io/)                               | [repo](https://github.com/pantanvita/pantanvita.github.io)             | [repo](https://github.com/pantanvita/wis-python-2025) |  |  |
 | [Arad Zulti](https://aradzu10.github.io/my_first_github_site/)             | [repo](https://github.com/aradzu10/my_first_github_site)               | [repo](https://github.com/aradzu10/python-course-assignments/) |  |  |
