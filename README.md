@@ -13,6 +13,7 @@ Course number: 20263071
 
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
+| [Achinoam Shoham](https://achinoamsho.github.io/)                          | [repo](https://github.com/achinoamSho/achinoamsho.github.io)           | [repo](https://github.com/achinoamSho/python-course-assignments) |  |  |
 | [Adi Moses](https://adi-mo.github.io/)                                     | [repo](https://github.com/ADI-mo/ADI-mo.github.io)                     | [repo](https://github.com/ADI-mo/python-course-assignments-) |  |  |
 | [Adib Masharqa](https://adibm02.github.io/adibm.github.io/)                | [repo](https://github.com/AdibM02/adibm.github.io)                     | [repo](https://github.com/AdibM02/python-course-assignments) |  |  |
 | [Aileen Cohen](https://aileencohen.github.io/)                             | [repo](https://github.com/AileenCohen/AileenCohen.github.io)           | [repo](https://github.com/AileenCohen/Python_Course_Assignments) |  |  |
