@@ -11,9 +11,9 @@ Course number: 20263071
 
 ## Students
 
-| Home page | Repo | Assignments | Project | Status |
+| Home page | Repo | Assignments | Lab | Project |
 | --------- | ---- | ----------- | ------- | ------ |
-| [Achinoam Shoham](https://achinoamsho.github.io/)                          | [repo](https://github.com/achinoamSho/achinoamsho.github.io)           | [repo](https://github.com/achinoamSho/python-course-assignments) |  |  |
+| [Achinoam Shoham](https://achinoamsho.github.io/)                          | [repo](https://github.com/achinoamSho/achinoamsho.github.io)           | [repo](https://github.com/achinoamSho/python-course-assignments) | [Naama Barkai Lab](https://barkailab.wixsite.com/barkai) |  |
 | [Adi Moses](https://adi-mo.github.io/)                                     | [repo](https://github.com/ADI-mo/ADI-mo.github.io)                     | [repo](https://github.com/ADI-mo/python-course-assignments-) |  |  |
 | [Adib Masharqa](https://adibm02.github.io/adibm.github.io/)                | [repo](https://github.com/AdibM02/adibm.github.io)                     | [repo](https://github.com/AdibM02/python-course-assignments) |  |  |
 | [Aileen Cohen](https://aileencohen.github.io/)                             | [repo](https://github.com/AileenCohen/AileenCohen.github.io)           | [repo](https://github.com/AileenCohen/Python_Course_Assignments) |  |  |
@@ -56,8 +56,9 @@ Course number: 20263071
 
 ## Teaching Assistants
 
-* [Hadar Klimovski](https://hadarklimovski.github.io/)
-* [Liron Hoffman](https://liroh99.github.io/)
+* [Hadar Klimovski](https://hadarklimovski.github.io/) - [Hornstein lab - Non-coding neurogenetics](https://www.weizmann.ac.il/molgen/hornstein/)
+* [Liron Hoffman](https://liroh99.github.io/) - [Yonatan Stelzer Lab - Epigenetics in Development and Disease](https://www.weizmann.ac.il/mcb/Stelzer/)
+
 
 ## Plan
 
