@@ -31,19 +31,19 @@ Course number: 20263071
 | [Hallel Azulai](https://hallelaz.github.io/)                               | [repo](https://github.com/hallelaz/hallelaz.github.io)                 | [repo](https://github.com/hallelaz/python-course-assignments) | [Ziv Reich's lab](https://www.weizmann.ac.il/Biomolecular_Sciences/Reich/) |  |
 | [Inbar Perets](https://inbarpe.github.io/)                                 | [repo](https://github.com/InbarPe/InbarPe.github.io)                   | [repo](https://github.com/InbarPe/python-course-assignments) | Yoav Livneh |  |
 | [Lihi Bolokan](https://lihibolok.github.io/)                               | [repo](https://github.com/lihibolok/lihibolok.github.io)               | [repo](https://github.com/lihibolok/python-course-assignments) | [Tzahor Lab - Fixing a Broken Heart: Innovations in Cardiac Regeneration](https://www.weizmann.ac.il/mcb/tzahor/) |  |
-| [Lior Batat](https://liorbet13.github.io/)                                 | [repo](https://github.com/liorbet13/liorbet13.github.io)               | [repo](https://github.com/liorbet13/python-course-assignments) |  |  |
-| [Neta Hanuka](https://netaht.github.io/)                                   | [repo](https://github.com/NetaHT/NetaHT.github.io)                     | [repo](https://github.com/NetaHT/python-course-assignments-2025) |  |  |
-| [Noam Ariel](https://noamariel.github.io/)                                 | [repo](https://github.com/NoamAriel/NoamAriel.github.io)               | [repo](https://github.com/NoamAriel/python-course-assignments) |  |  |
-| [Noga Levinson](https://nogalev.github.io/)                                | [repo](https://github.com/nogalev/nogalev.github.io)                   | [repo](https://github.com/nogalev/wis-python-course) |  |  |
-| [Noya Levy](https://noya791-cmyk.github.io/)                               | [repo](https://github.com/noya791-cmyk/noya791-cmyk.github.io)         | [repo](https://github.com/noya791-cmyk/python-course-assignments) |  |  |
-| [Rachel Steinitz-Eliyahu](https://rachelitase.github.io/)                  | [repo](https://github.com/RachelitaSE/RachelitaSE.github.io)           | [repo](https://github.com/RachelitaSE/python-course-assignments) |  |  |
-| [Raz Leibson](https://razlei25.github.io/)                                 | [repo](https://github.com/razlei25/razlei25.github.io)                 | [repo](https://github.com/razlei25/python-course-assignments) |  |  |
+| [Lior Batat](https://liorbet13.github.io/)                                 | [repo](https://github.com/liorbet13/liorbet13.github.io)               | [repo](https://github.com/liorbet13/python-course-assignments) | [Yonatan Kupchik's lab - Neurobiology of addiction and motivated behavior](https://www.kupchiklab.com/) |  |
+| [Neta Hanuka](https://netaht.github.io/)                                   | [repo](https://github.com/NetaHT/NetaHT.github.io)                     | [repo](https://github.com/NetaHT/python-course-assignments-2025) | [Oren Schuldiner - Developmental Neuroscience](https://www.weizmann.ac.il/mcb/Schuldiner/) |  |
+| [Noam Ariel](https://noamariel.github.io/)                                 | [repo](https://github.com/NoamAriel/NoamAriel.github.io)               | [repo](https://github.com/NoamAriel/python-course-assignments) | [Ulyana Shimanovich - Department of Materials and Interfaces Faculty of Chemistry](https://www.weizmann.ac.il/MCMS/shimanovich/) |  |
+| [Noga Levinson](https://nogalev.github.io/)                                | [repo](https://github.com/nogalev/nogalev.github.io)                   | [repo](https://github.com/nogalev/wis-python-course) | [Karina Yaniv Lab - Vascular biology](https://www.weizmann.ac.il/dept/irb/Yaniv/) |  |
+| [Noya Levy](https://noya791-cmyk.github.io/)                               | [repo](https://github.com/noya791-cmyk/noya791-cmyk.github.io)         | [repo](https://github.com/noya791-cmyk/python-course-assignments) | Karina Yaniv |  |
+| [Rachel Steinitz-Eliyahu](https://rachelitase.github.io/)                  | [repo](https://github.com/RachelitaSE/RachelitaSE.github.io)           | [repo](https://github.com/RachelitaSE/python-course-assignments) | Refaely-Abramson Lab |  |
+| [Raz Leibson](https://razlei25.github.io/)                                 | [repo](https://github.com/razlei25/razlei25.github.io)                 | [repo](https://github.com/razlei25/python-course-assignments) | [Oren Forkosh Lab](https://www.forkoshlab.com/) |  |
 | [Rony Holdengreber](https://ronyho3008.github.io/)                         | [repo](https://github.com/ronyho3008/ronyho3008.github.io)             | [repo](https://github.com/ronyho3008/python-course-assignments) |  |  |
-| [Sana Khatib](https://sanakhatib4.github.io/)                              | [repo](https://github.com/sanakhatib4/sanakhatib4.github.io)           | [repo](https://github.com/sanakhatib4/sana-python-course-assignments2026) |  |  |
+| [Sana Khatib](https://sanakhatib4.github.io/)                              | [repo](https://github.com/sanakhatib4/sanakhatib4.github.io)           | [repo](https://github.com/sanakhatib4/sana-python-course-assignments2026) | Naama Barkai |  |
 | [Shelly Gilad](https://shellygil.github.io/)                               | [repo](https://github.com/ShellyGil/ShellyGil.github.io)               | [repo](https://github.com/ShellyGil/python-course-assignments) |  |  |
-| [Shoshana Sernik](https://shoshisernik.github.io/)                         | [repo](https://github.com/shoshisernik/shoshisernik.github.io)         | [repo](https://github.com/shoshisernik/python-course-assignments) |  |  |
-| [Sriashwin Sridharan](https://srriash.github.io/)                          | [repo](https://github.com/Srriash/srriash.github.io)                   | [repo](https://github.com/Srriash/Srriash_WISasgn_2025) |  |  |
-| [Yana Lerner](https://yanalerner10.github.io/)                             | [repo](https://github.com/YanaLerner10/yanalerner10.github.io)         | [repo](https://github.com/YanaLerner10/python-course-assignments/) |  |  |
+| [Shoshana Sernik](https://shoshisernik.github.io/)                         | [repo](https://github.com/shoshisernik/shoshisernik.github.io)         | [repo](https://github.com/shoshisernik/python-course-assignments) | [Eli Arama - Cellular Destruction Mechanisms in Development](https://www.weizmann.ac.il/molgen/Arama/) |  |
+| [Sriashwin Sridharan](https://srriash.github.io/)                          | [repo](https://github.com/Srriash/srriash.github.io)                   | [repo](https://github.com/Srriash/Srriash_WISasgn_2025) | [Daniel Dar Lab - Microbial Systems Biology](https://www.weizmann.ac.il/plants/dar/)  |  |
+| [Yana Lerner](https://yanalerner10.github.io/)                             | [repo](https://github.com/YanaLerner10/yanalerner10.github.io)         | [repo](https://github.com/YanaLerner10/python-course-assignments/) | [Orly Laufman's lab - Molecular and Cell Biology of RNA viruses](https://www.weizmann.ac.il/molgen/Laufman/) |  |
 
 <!--
 | []()                | [repo]()                     | [repo]() |  |  |
@@ -349,5 +349,6 @@ General notes:
 * Open a new issue on our repository titled "Day2 by Foo Bar", and include a link to your repository.
 
 * Dead-line: 2025.11.09 22:00
+
 
 
