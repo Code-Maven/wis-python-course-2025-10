@@ -2,8 +2,15 @@
 
 * Evyatar Shaked
     * [dilution_calculator](https://github.com/Evyatar-shaked/Evyatar-Shaked_Assignments/tree/main/day02)
+* Inbar Perets
+    * [Mice weight and food calculator](https://github.com/InbarPe/python-course-assignments/tree/main/day02)
+* Noam Ariel
+    * [LiBr calculator](https://github.com/NoamAriel/python-course-assignments/tree/main/day02)
 * Raz Leibson
-    * [Gematria calculator](https://github.com/razlei25/python-course-assignments/blob/main/day02/gematria_calculator.py)
+    * [Gematria calculator](https://github.com/razlei25/python-course-assignments/blob/main/day02/)
+* Rony Holdengreber
+    * [Dilution: Calculate V1 (volume of stock) and Vbuffer (diluent) in ml.](https://github.com/ronyho3008/python-course-assignments/tree/main/day02/home%20assignment)
+    * [prompts in Hebrew](https://github.com/ronyho3008/python-course-assignments/blob/main/day02/home%20assignment/dilution_chatgpt.md)
 
 
 ## Day 3
