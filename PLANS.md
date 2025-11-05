@@ -15,6 +15,8 @@
 
 ## Day 3
 
+* The grammer see the [SYLLABUS](SYLLABUS.md)
+
 * Circle: `pi = 3.14` or `math.pi`
 * Remove `__pycache__` https://github.com/arielhindi/Python-Course-Assignments/tree/main/day02 and add it to `.gitignore`
 
