@@ -2,10 +2,21 @@
 
 * Adi Moses
     * [Growth curves of bacteria](https://github.com/ADI-mo/python-course-assignments/tree/main/day02)
+* Aileen Cohen
+    * [translate and predict the disorder tendencies of a dna sequence](https://github.com/AileenCohen/Python_Course_Assignments/tree/main/Day02)
+    * [ool DNA samples at desired concentrations](https://github.com/AileenCohen/Python_Course_Assignments/tree/main/Day02) - CSV files
+* **Arad Zulti**
+    * [Converter: Temprature (C, K, F) and distance (cm, inch)](https://github.com/aradzu10/python-course-assignments/tree/main/day02) with tests!
+* Ariel Hindi
+    * [baking ingredient conversions from grams to cups or reverse](https://github.com/arielhindi/Python-Course-Assignments/tree/main/day02)
+* Einav Litvak
+    * [Safe sound](https://github.com/einavlitvak/WIS-python-assignments-2025/tree/main/Day2)
 * Evyatar Shaked
     * [dilution_calculator](https://github.com/Evyatar-shaked/Evyatar-Shaked_Assignments/tree/main/day02)
 * Guy Shemesh
     * [Biology Unit Converter](https://github.com/guy-shemesh-weiz/python-course-assignments/tree/main/day02)
+* **Guy Vosco**
+    * [Travel expenses](https://github.com/guyvosco/python-course-assignments/tree/main/day02) - currency converter using the [Exchange rate API](https://www.exchangerate-api.com/)
 * Inbar Perets
     * [Mice weight and food calculator](https://github.com/InbarPe/python-course-assignments/tree/main/day02)
 * Neta Hanuka
@@ -17,6 +28,10 @@
 * Rony Holdengreber
     * [Dilution: Calculate V1 (volume of stock) and Vbuffer (diluent) in ml.](https://github.com/ronyho3008/python-course-assignments/tree/main/day02/home%20assignment)
     * [prompts in Hebrew](https://github.com/ronyho3008/python-course-assignments/blob/main/day02/home%20assignment/dilution_chatgpt.md)
+* Shelly Gilad
+    * [PCR_Calculator](https://github.com/ShellyGil/python-course-assignments/tree/main/day02)
+* Yana Lerner
+    * [Birthday calcluator](https://github.com/YanaLerner10/python-course-assignments/tree/main/day02)
 
 
 ## Day 3
