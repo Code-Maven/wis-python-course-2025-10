@@ -108,9 +108,9 @@ def test_swap_last_two_chars():
     assert compare("abc", "acb") == 2
 
 
-# def test_anagram_with_many_edits():
-#     """Test anagram requiring many edits."""
-#     assert compare("listening", "silent") == 8
+def test_anagram_with_many_edits():
+    """Test anagram requiring many edits."""
+    assert compare("listening", "silent") == 8
 
 
 @pytest.mark.parametrize("word1,word2,expected", [

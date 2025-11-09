@@ -1,0 +1,2 @@
+# Requirements for the words module
+python-Levenshtein>=0.12.0

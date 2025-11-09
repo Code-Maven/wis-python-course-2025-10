@@ -1,9 +1,26 @@
+"""
+Words module for calculating Levenshtein distance between words using the Levenshtein library.
+
+Required dependency: python-Levenshtein
+Install with: pip install python-Levenshtein
+"""
+
+try:
+    import Levenshtein
+except ImportError:
+    print("Error: python-Levenshtein library not found.")
+    print("Please install it with: pip install python-Levenshtein")
+    raise
+
+
 def compare(word1, word2):
     """
-    Calculate the Levenshtein distance between two words.
+    Calculate the Levenshtein distance between two words using the Levenshtein library.
     
     The Levenshtein distance is the minimum number of single-character edits
     (insertions, deletions, or substitutions) required to change one word into another.
+    
+    This implementation uses the fast C-based python-Levenshtein library.
     
     Args:
         word1 (str): The first word to compare
@@ -18,48 +35,8 @@ def compare(word1, word2):
     word1 = word1.lower()
     word2 = word2.lower()
     
-    # Get the lengths of both words
-    len1, len2 = len(word1), len(word2)
-    # this is almost the same as
-    # len1 = len(word1)
-    # len2 = len(word2)
-
-    # Create a matrix to store the distances
-    # Matrix dimensions: (len1 + 1) x (len2 + 1)
-    # for n in range(1, 4):
-    #     print(n)
-    # range(3) is the same  range(0, 3)
-
-    matrix = [[0] * (len2 + 1) for _ in range(len1 + 1)]
-    
-    # Initialize the first row and column
-    # Distance from empty string to any prefix
-    for i in range(len1 + 1):
-        matrix[i][0] = i
-    for j in range(len2 + 1):
-        matrix[0][j] = j
-    
-    # Fill in the rest of the matrix
-    for i in range(1, len1 + 1):
-        for j in range(1, len2 + 1):
-            # If characters match, no edit needed
-            if word1[i-1] == word2[j-1]:
-                cost = 0
-            else:
-                cost = 1
-            
-            # Calculate minimum cost from three possible operations:
-            # 1. Deletion: matrix[i-1][j] + 1
-            # 2. Insertion: matrix[i][j-1] + 1
-            # 3. Substitution: matrix[i-1][j-1] + cost
-            matrix[i][j] = min(
-                matrix[i-1][j] + 1,      # deletion
-                matrix[i][j-1] + 1,      # insertion
-                matrix[i-1][j-1] + cost  # substitution
-            )
-    
-    # Return the final distance
-    return matrix[len1][len2]
+    # Use the Levenshtein library to compute distance
+    return Levenshtein.distance(word1, word2)
 
 
 # Example usage and testing

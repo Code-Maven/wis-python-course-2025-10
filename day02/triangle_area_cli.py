@@ -67,6 +67,7 @@ Examples:
         print("Error: Base and height must be positive numbers.")
         sys.exit(1)
     
+    
     try:
         # Calculate area
         area = triangle_area(base, height)
