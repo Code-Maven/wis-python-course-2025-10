@@ -354,6 +354,8 @@ General notes:
 
 ### Day 2 assignments by students
 
+* Achinoam Shoham
+    * [Cell Culture Calculator](https://github.com/achinoamSho/python-course-assignments/tree/main/Day02)
 * Adi Moses
     * [Growth curves of bacteria](https://github.com/ADI-mo/python-course-assignments/tree/main/day02)
 * Adib Masharqa
@@ -367,6 +369,11 @@ General notes:
     * [Converter: Temprature (C, K, F) and distance (cm, inch)](https://github.com/aradzu10/python-course-assignments/tree/main/day02) with tests!
 * Ariel Hindi
     * [baking ingredient conversions from grams to cups or reverse](https://github.com/arielhindi/Python-Course-Assignments/tree/main/day02)
+* Avigail Yariv
+    * [GC Content Calculator](https://github.com/AvigailYariv/python-course-assignments/tree/main/day02/GC_content_calculator)
+    * [Age CalculatorAge Calculator](https://github.com/AvigailYariv/python-course-assignments/tree/main/day02/age_calculator)
+    * [Amino Acid Structure Learning Game](https://github.com/AvigailYariv/python-course-assignments/tree/main/day02/amino_acid_game)
+    * [Snake game (using GUI)](https://github.com/AvigailYariv/python-course-assignments/tree/main/day02/snake)
 * **David Ganem**
     * [NeuroRender to visualize selected brain regions from the ARA atlas](https://github.com/DVDGNM99/Python-assignments-main/tree/main/day%2002)
 * Daniela Huppert Revach
@@ -389,8 +396,13 @@ General notes:
     * [Taylor Swift Album Finder GUI](https://github.com/liorbet13/python-course-assignments/tree/main/day02)
 * Neta Hanuka
     * [Date arithmetics](https://github.com/NetaHT/python-course-assignments-2025/tree/main/day02)
+    * [TransfectionEfficiency](https://github.com/NetaHT/python-course-assignments-2025/tree/main/day02)
 * Noam Ariel
     * [LiBr calculator](https://github.com/NoamAriel/python-course-assignments/tree/main/day02)
+* Noya Levy
+    * [PCR Reaction Calculator](https://github.com/noya791-cmyk/python-course-assignments/tree/main/day02)
+* Rachel Steinitz-Eliyahu
+    * [Consumer Price Index calculator](https://github.com/RachelitaSE/python-course-assignments/tree/main/day02)
 * Raz Leibson
     * [Gematria calculator](https://github.com/razlei25/python-course-assignments/blob/main/day02/)
 * Rony Holdengreber
