@@ -26,6 +26,10 @@ def compare(word1, word2):
 
     # Create a matrix to store the distances
     # Matrix dimensions: (len1 + 1) x (len2 + 1)
+    # for n in range(1, 4):
+    #     print(n)
+    # range(3) is the same  range(0, 3)
+
     matrix = [[0] * (len2 + 1) for _ in range(len1 + 1)]
     
     # Initialize the first row and column
