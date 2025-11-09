@@ -7,6 +7,8 @@
 * Aileen Cohen
     * [translate and predict the disorder tendencies of a dna sequence](https://github.com/AileenCohen/Python_Course_Assignments/tree/main/Day02)
     * [ool DNA samples at desired concentrations](https://github.com/AileenCohen/Python_Course_Assignments/tree/main/Day02) - CSV files
+* **Anvita Pant**
+    * [Polymerase Chain Reaction (PCR)](https://github.com/pantanvita/wis-python-2025/tree/main/day02)
 * **Arad Zulti**
     * [Converter: Temprature (C, K, F) and distance (cm, inch)](https://github.com/aradzu10/python-course-assignments/tree/main/day02) with tests!
 * Ariel Hindi
