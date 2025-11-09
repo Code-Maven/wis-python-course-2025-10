@@ -421,5 +421,82 @@ General notes:
 * Yana Lerner
     * [Birthday calcluator](https://github.com/YanaLerner10/python-course-assignments/tree/main/day02)
 
+## Day 3
+
+### Summary by Liron
+
+#### Day 3 Lesson 1
+
+* Difference between markdown vs markup
+* `README.md` renders automatically in the repository
+* [GitHub flavored markdown](https://github.github.com/gfm/) for formatting markdown files in GitHub
+
+* **Notes on assignment 2:**
+    * **Anvita Pant**
+        * Include links for the background of the biology. Use the `[]()` syntax
+    * **Arad Zulti**
+        * How to include tests to verify the validity of your code
+        * Note - use approximation since computers don’t know how to represent floating point numbers
+    * **David Gabem**
+        * REPL - read evaluate print loop
+        * `uv run python` to enter interpreter
+        * `exit()` to exit
+
+* **Python includes:**
+    * The language itself
+    * Python libraries which are needed to be imported
+    * Third party libraries which need to be installed. See [pypi](https://pypi.org/)
+
+
+* **How to define dependencies needed to run in your code:**
+    * `requirements.txt`: To install dependencies listed in a standard `requirements.txt` file, use the command `uv pip install -r requirements.txt`.
+    * `environment.yml`: To install dependencies listed in a Conda-style `environment.yml` file, use the command `uv pip install -c environment.yml`.
+    * **Adding Dependencies:**
+        * `uv init` create toml file
+        * To add a single new dependency (and ensure all existing ones are resolved and installed) use `uv add [name of dependency]` (e.g., `uv add pandas`)
+        * `uv lock` states specifically the hierarchy of what is downloaded and what is needed to run the program
+        * `uv update` can update the libraries
+
+#### Day 3 Lesson 2
+
+* **Example of code- `words.py`**
+    * Create a function that receives two words and return a numerical value indicating distance of the two words
+* **Goes over:**
+    * Functions
+    * Methods for strings
+    * For loop
+    * Range function
+    * Lists
+    * Dictionaries
+* **Another way to add to GitHub:**
+    * `git status`
+    * `git add .`
+    * `git commit -m " "`
+    * `git push`
+
+#### Day 3 Lesson 3
+
+* Using `pytest` to write tests (example in `words.py`)
+* Implementation of a library that can execute the function instead of writing it ourselves
+
+
+* You are welcome to use your mother tongue when talking to AI, but make sure the resulting code is in English: comments, variables, function names, sample values etc.
+
+
+### Assignment (day 3)
+
+* Pick 2 (or more) students that you don't know. Look at their assignment repository. Clone their repository to your computer and try to run their projects from day 2.
+Open an issue on the repository of their assignment with any issues you encounter. (either small things like having a folder with space) or that you don't know how to run the application and you need clarification.
+When picking a student select one who does NOT yet have 2 issues. This way everyone will get at least 2 issues.
+
+* Once you received such an issue, react to it. If needed, ask for clarification. When you feel you have fulfilled the request (or decided you don't want to do that) close it.
+
+* Copy your project from the `day02` folder to the new `day03` folder. Move the "business logic" (the computation) to a separate file and make the main program use it. It is enought to have one way to use it GUI/command line/STDIN. Pick the one you prefer. Of course if you like you can have more of them.
+* Add some tests. Make sure you can run the tests. Look at the tests and make sure they test the code properly.
+* Add a README.md explaining how to install dependencies, if there are any. Also explain how you used AI (include the prompts).
+
+* Open an issue on our repository with a title `day03 Your Name`. Include a link to your `day03` folder and to the issues you opened.
+
+* Dead-line: 2025.11.16 22:00
 
 
