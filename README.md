@@ -493,6 +493,7 @@ When picking a student select one who does NOT yet have 2 issues. This way every
 
 * Copy your project from the `day02` folder to the new `day03` folder. Move the "business logic" (the computation) to a separate file and make the main program use it. It is enought to have one way to use it GUI/command line/STDIN. Pick the one you prefer. Of course if you like you can have more of them.
 * Add some tests. Make sure you can run the tests. Look at the tests and make sure they test the code properly.
+* Replace your code with some 3rd-party library when possible.
 * Add a README.md explaining how to install dependencies, if there are any. Also explain how you used AI (include the prompts).
 
 * Open an issue on our repository with a title `day03 Your Name`. Include a link to your `day03` folder and to the issues you opened.
