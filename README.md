@@ -11,37 +11,40 @@ Course number: 20263071
 
 ## Students
 
-| Home page | Repo | Assignments | Project | Status |
+| Home page | Repo | Assignment | Lab | Project |
 | --------- | ---- | ----------- | ------- | ------ |
-| [Adi Moses](https://adi-mo.github.io/)                                     | [repo](https://github.com/ADI-mo/ADI-mo.github.io)                     | [repo](https://github.com/ADI-mo/python-course-assignments-) |  |  |
-| [Adib Masharqa](https://adibm02.github.io/adibm.github.io/)                | [repo](https://github.com/AdibM02/adibm.github.io)                     | [repo](https://github.com/AdibM02/python-course-assignments) |  |  |
-| [Aileen Cohen](https://aileencohen.github.io/)                             | [repo](https://github.com/AileenCohen/AileenCohen.github.io)           | [repo](https://github.com/AileenCohen/Python_Course_Assignments) |  |  |
-| [Anvita Pant](https://pantanvita.github.io/)                               | [repo](https://github.com/pantanvita/pantanvita.github.io)             | [repo](https://github.com/pantanvita/wis-python-2025) |  |  |
-| [Arad Zulti](https://aradzu10.github.io/my_first_github_site/)             | [repo](https://github.com/aradzu10/my_first_github_site)               | [repo](https://github.com/aradzu10/python-course-assignments/) |  |  |
-| [Ariel Hindi](https://arielhindi.github.io/)                               | [repo](https://github.com/arielhindi/arielhindi.github.io)             | [repo](https://github.com/arielhindi/Python-Course-Assignments) |  |  |
-| [Avigail Yariv](https://avigailyariv.github.io/)                           | [repo](https://github.com/AvigailYariv/AvigailYariv.github.io)         | [repo](https://github.com/AvigailYariv/python-course-assignments) |  |  |
-| [Daniela Huppert Revach](https://danielahuppert.github.io/)                | [repo](https://github.com/Danielahuppert/danielahuppert.github.io)     | [repo](https://github.com/Danielahuppert/python-course-assignments) |  |  |
-| [David Ganem](https://dvdgnm99.github.io/)                                 | [repo](https://github.com/DVDGNM99/DVDGNM99.github.io)                 | [repo](https://github.com/DVDGNM99/Python-assignments-main) |  |  |
-| [Einav Litvak](https://einavlitvak.github.io/)                             | [repo](https://github.com/einavlitvak/einavlitvak.github.io)           | [repo](https://github.com/einavlitvak/WIS-python-assignments-2025) |  |  |
-| [Evyatar Shaked](https://evyatar-shaked.github.io/)                        | [repo](https://github.com/Evyatar-shaked/Evyatar-shaked.github.io)     | [repo](https://github.com/Evyatar-shaked/Evyatar-Shaked_Assignments) |  |  |
-| [Guy Saller](https://guywis.github.io/)                                    | [repo](https://github.com/GuyWIS/GuyWIS.github.io)                     | [repo](https://github.com/GuyWIS/python-course-assignments/tree/main/day01) |  |  |
-| [Guy Shemesh](https://guy-shemesh-weiz.github.io/)                         | [repo](https://github.com/guy-shemesh-weiz/guy-shemesh-weiz.github.io) | [repo](https://github.com/guy-shemesh-weiz/python-course-assignments) |  |  |
-| [Guy Vosco](https://guyvosco.github.io/)                                   | [repo](https://github.com/guyvosco/guyvosco.github.io)                 | [repo](https://github.com/guyvosco/python-course-assignments/tree/main) |  |  |
-| [Hallel Azulai](https://hallelaz.github.io/)                               | [repo](https://github.com/hallelaz/hallelaz.github.io)                 | [repo](https://github.com/hallelaz/python-course-assignments) |  |  |
-| [Inbar Perets](https://inbarpe.github.io/)                                 | [repo](https://github.com/InbarPe/InbarPe.github.io)                   | [repo](https://github.com/InbarPe/python-course-assignments) |  |  |
-| [Lihi Bolokan](https://lihibolok.github.io/)                               | [repo](https://github.com/lihibolok/lihibolok.github.io)               | [repo](https://github.com/lihibolok/python-course-assignments) |  |  |
-| [Lior Batat](https://liorbet13.github.io/)                                 | [repo](https://github.com/liorbet13/liorbet13.github.io)               | [repo](https://github.com/liorbet13/python-course-assignments) |  |  |
-| [Neta Hanuka](https://netaht.github.io/)                                   | [repo](https://github.com/NetaHT/NetaHT.github.io)                     | [repo](https://github.com/NetaHT/python-course-assignments-2025) |  |  |
-| [Noam Ariel](https://noamariel.github.io/)                                 | [repo](https://github.com/NoamAriel/NoamAriel.github.io)               | [repo](https://github.com/NoamAriel/python-course-assignments) |  |  |
-| [Noga Levinson](https://nogalev.github.io/)                                | [repo](https://github.com/nogalev/nogalev.github.io)                   | [repo](https://github.com/nogalev/wis-python-course) |  |  |
-| [Noya Levy](https://noya791-cmyk.github.io/)                               | [repo](https://github.com/noya791-cmyk/noya791-cmyk.github.io)         | [repo](https://github.com/noya791-cmyk/python-course-assignments) |  |  |
-| [Rachel Steinitz-Eliyahu](https://rachelitase.github.io/)                  | [repo](https://github.com/RachelitaSE/RachelitaSE.github.io)           | [repo](https://github.com/RachelitaSE/python-course-assignments) |  |  |
-| [Raz Leibson](https://razlei25.github.io/)                                 | [repo](https://github.com/razlei25/razlei25.github.io)                 | [repo](https://github.com/razlei25/python-course-assignments) |  |  |
+| [Achinoam Shoham](https://achinoamsho.github.io/)                          | [repo](https://github.com/achinoamSho/achinoamsho.github.io)           | [repo](https://github.com/achinoamSho/python-course-assignments) | [Naama Barkai Lab - Department of Molecular Genetics](https://barkailab.wixsite.com/barkai) |  |
+| [Adi Moses](https://adi-mo.github.io/)                                     | [repo](https://github.com/ADI-mo/ADI-mo.github.io)                     | [repo](https://github.com/ADI-mo/python-course-assignments-) | [The Segev Lab - Microbial Physiology in an Environmental Context](https://www.weizmann.ac.il/plants/segev/) |  |
+| [Adib Masharqa](https://adibm02.github.io/adibm.github.io/)                | [repo](https://github.com/AdibM02/adibm.github.io)                     | [repo](https://github.com/AdibM02/python-course-assignments) | [The Elson Lab - Bone Biology in Health and Disease](https://www.weizmann.ac.il/molgen/Elson/) |  |
+| [Aileen Cohen](https://aileencohen.github.io/)                             | [repo](https://github.com/AileenCohen/AileenCohen.github.io)           | [repo](https://github.com/AileenCohen/Python_Course_Assignments) | Naama Barkai Lab |  |
+| [Anvita Pant](https://pantanvita.github.io/)                               | [repo](https://github.com/pantanvita/pantanvita.github.io)             | [repo](https://github.com/pantanvita/wis-python-2025) | [Tami Geiger Lab - Clinical Cancer Proteomics](https://www.weizmann.ac.il/mcb/TGeiger/)  |  |
+| [Arad Zulti](https://aradzu10.github.io/)                                  | [repo](https://github.com/aradzu10/aradzu10.github.io)                 | [repo](https://github.com/aradzu10/python-course-assignments/) | [Segal Lab - AI-based Personalized Medicine](https://www.weizmann.ac.il/math/segal/) |  |
+| [Ariel Hindi](https://arielhindi.github.io/)                               | [repo](https://github.com/arielhindi/arielhindi.github.io)             | [repo](https://github.com/arielhindi/Python-Course-Assignments) | [Orly Reiner Lab - BrainBuild: Unravelling Corticogenesis](https://www.weizmann.ac.il/molgen/Reiner/) |  |
+| [Avigail Yariv](https://avigailyariv.github.io/)                           | [repo](https://github.com/AvigailYariv/AvigailYariv.github.io)         | [repo](https://github.com/AvigailYariv/python-course-assignments) | [Ada E. Yonath Group](https://www.weizmann.ac.il/csb/faculty_pages/Yonath/) |  |
+| [Daniela Huppert Revach](https://danielahuppert.github.io/)                | [repo](https://github.com/Danielahuppert/danielahuppert.github.io)     | [repo](https://github.com/Danielahuppert/python-course-assignments) | Orly Reiner |  |
+| [David Ganem](https://dvdgnm99.github.io/)                                 | [repo](https://github.com/DVDGNM99/DVDGNM99.github.io)                 | [repo](https://github.com/DVDGNM99/Python-assignments-main) | [ Ilan Lampl Lab](https://www.weizmann.ac.il/brain-sciences/labs/lampl/) |  |
+| [Einav Litvak](https://einavlitvak.github.io/)                             | [repo](https://github.com/einavlitvak/einavlitvak.github.io)           | [repo](https://github.com/einavlitvak/WIS-python-assignments-2025) | [Yoav Livneh's Lab - Neuroscience of brain-body communication](https://www.weizmann.ac.il/brain-sciences/labs/livneh/)  |  |
+| [Evyatar Shaked](https://evyatar-shaked.github.io/)                        | [repo](https://github.com/Evyatar-shaked/Evyatar-shaked.github.io)     | [repo](https://github.com/Evyatar-shaked/Evyatar-Shaked_Assignments) | [Milo Lab - Design Principles in Energy & Carbon Metabolism](https://www.weizmann.ac.il/plants/milo/) |  |
+| [Guy Saller](https://guywis.github.io/)                                    | [repo](https://github.com/GuyWIS/GuyWIS.github.io)                     | [repo](https://github.com/GuyWIS/python-course-assignments/) | [Michal Leskes Research Group - Magnetic Resonance in Materials](https://www.weizmann.ac.il/MCMS/Leskes/) |  |
+| [Guy Shemesh](https://guy-shemesh-weiz.github.io/)                         | [repo](https://github.com/guy-shemesh-weiz/guy-shemesh-weiz.github.io) | [repo](https://github.com/guy-shemesh-weiz/python-course-assignments) | [Liran Shlush Lab - The aging of the humanhematopoietic system](https://www.weizmann.ac.il/immunology/shlush/) |  |
+| [Guy Vosco](https://guyvosco.github.io/)                                   | [repo](https://github.com/guyvosco/guyvosco.github.io)                 | [repo](https://github.com/guyvosco/python-course-assignments/tree/main) | [Sivan Refaely-Abramson - Theory of Excited-State Phenomena in Materials](https://www.weizmann.ac.il/MCMS/Sivan/) |  |
+| [Hallel Azulai](https://hallelaz.github.io/)                               | [repo](https://github.com/hallelaz/hallelaz.github.io)                 | [repo](https://github.com/hallelaz/python-course-assignments) | [Ziv Reich's lab](https://www.weizmann.ac.il/Biomolecular_Sciences/Reich/) |  |
+| [Inbar Perets](https://inbarpe.github.io/)                                 | [repo](https://github.com/InbarPe/InbarPe.github.io)                   | [repo](https://github.com/InbarPe/python-course-assignments) | Yoav Livneh |  |
+| [Lihi Bolokan](https://lihibolok.github.io/)                               | [repo](https://github.com/lihibolok/lihibolok.github.io)               | [repo](https://github.com/lihibolok/python-course-assignments) | [Tzahor Lab - Fixing a Broken Heart: Innovations in Cardiac Regeneration](https://www.weizmann.ac.il/mcb/tzahor/) |  |
+| [Lior Batat](https://liorbet13.github.io/)                                 | [repo](https://github.com/liorbet13/liorbet13.github.io)               | [repo](https://github.com/liorbet13/python-course-assignments) | [Yonatan Kupchik's lab - Neurobiology of addiction and motivated behavior](https://www.kupchiklab.com/) |  |
+| [Neta Hanuka](https://netaht.github.io/)                                   | [repo](https://github.com/NetaHT/NetaHT.github.io)                     | [repo](https://github.com/NetaHT/python-course-assignments-2025) | [Oren Schuldiner - Developmental Neuroscience](https://www.weizmann.ac.il/mcb/Schuldiner/) |  |
+| [Noam Ariel](https://noamariel.github.io/)                                 | [repo](https://github.com/NoamAriel/NoamAriel.github.io)               | [repo](https://github.com/NoamAriel/python-course-assignments) | [Ulyana Shimanovich - Department of Materials and Interfaces Faculty of Chemistry](https://www.weizmann.ac.il/MCMS/shimanovich/) |  |
+| [Noga Levinson](https://nogalev.github.io/)                                | [repo](https://github.com/nogalev/nogalev.github.io)                   | [repo](https://github.com/nogalev/wis-python-course) | [Karina Yaniv Lab - Vascular biology](https://www.weizmann.ac.il/dept/irb/Yaniv/) |  |
+| [Noya Levy](https://noya791-cmyk.github.io/)                               | [repo](https://github.com/noya791-cmyk/noya791-cmyk.github.io)         | [repo](https://github.com/noya791-cmyk/python-course-assignments) | Karina Yaniv |  |
+| [Rachel Steinitz-Eliyahu](https://rachelitase.github.io/)                  | [repo](https://github.com/RachelitaSE/RachelitaSE.github.io)           | [repo](https://github.com/RachelitaSE/python-course-assignments) | Refaely-Abramson Lab |  |
+| [Raz Leibson](https://razlei25.github.io/)                                 | [repo](https://github.com/razlei25/razlei25.github.io)                 | [repo](https://github.com/razlei25/python-course-assignments) | [Oren Forkosh Lab](https://www.forkoshlab.com/) |  |
 | [Rony Holdengreber](https://ronyho3008.github.io/)                         | [repo](https://github.com/ronyho3008/ronyho3008.github.io)             | [repo](https://github.com/ronyho3008/python-course-assignments) |  |  |
-| [Sana Khatib](https://sanakhatib4.github.io/)                              | [repo](https://github.com/sanakhatib4/sanakhatib4.github.io)           | [repo](https://github.com/sanakhatib4/sana-python-course-assignments2026) |  |  |
+| [Sana Khatib](https://sanakhatib4.github.io/)                              | [repo](https://github.com/sanakhatib4/sanakhatib4.github.io)           | [repo](https://github.com/sanakhatib4/sana-python-course-assignments2026) | Naama Barkai |  |
+| [Sharonelle Sasson](https://sasasson.github.io/)                           | [repo](https://github.com/sasasson/sasasson.github.io)                 | [repo](https://github.com/sasasson/python-course-assignments) | Orli Reiner |  |
 | [Shelly Gilad](https://shellygil.github.io/)                               | [repo](https://github.com/ShellyGil/ShellyGil.github.io)               | [repo](https://github.com/ShellyGil/python-course-assignments) |  |  |
-| [Shoshana Sernik](https://shoshisernik.github.io/)                         | [repo](https://github.com/shoshisernik/shoshisernik.github.io)         | [repo](https://github.com/shoshisernik/python-course-assignments) |  |  |
-| [Yana Lerner](https://yanalerner10.github.io/)                             | [repo](https://github.com/YanaLerner10/yanalerner10.github.io)         | [repo](https://github.com/YanaLerner10/python-course-assignments/) |  |  |
+| [Shoshana Sernik](https://shoshisernik.github.io/)                         | [repo](https://github.com/shoshisernik/shoshisernik.github.io)         | [repo](https://github.com/shoshisernik/python-course-assignments) | [Eli Arama - Cellular Destruction Mechanisms in Development](https://www.weizmann.ac.il/molgen/Arama/) |  |
+| [Sriashwin Sridharan](https://srriash.github.io/)                          | [repo](https://github.com/Srriash/srriash.github.io)                   | [repo](https://github.com/Srriash/Srriash_WISasgn_2025) | [Daniel Dar Lab - Microbial Systems Biology](https://www.weizmann.ac.il/plants/dar/)  |  |
+| [Yana Lerner](https://yanalerner10.github.io/)                             | [repo](https://github.com/YanaLerner10/yanalerner10.github.io)         | [repo](https://github.com/YanaLerner10/python-course-assignments/) | [Orly Laufman's lab - Molecular and Cell Biology of RNA viruses](https://www.weizmann.ac.il/molgen/Laufman/) |  |
 
 <!--
 | []()                | [repo]()                     | [repo]() |  |  |
@@ -54,8 +57,9 @@ Course number: 20263071
 
 ## Teaching Assistants
 
-* [Hadar Klimovski](https://hadarklimovski.github.io/)
-* [Liron Hoffman](https://liroh99.github.io/)
+* [Hadar Klimovski](https://hadarklimovski.github.io/) - [Hornstein lab - Non-coding neurogenetics](https://www.weizmann.ac.il/molgen/hornstein/)
+* [Liron Hoffman](https://liroh99.github.io/) - [Yonatan Stelzer Lab - Epigenetics in Development and Disease](https://www.weizmann.ac.il/mcb/Stelzer/)
+
 
 ## Plan
 
@@ -80,14 +84,14 @@ Course number: 20263071
 
 There will be assignments after every lecture. You will submit them via GitHub.
 
-* Create a public reposiotry on GitHub for the assignments.
+* Create a public repository on GitHub for the assignments.
 * Add a `README.md` with some explanation what is this about.
 * For each assignment create a folder in the format of `dayXX` such as `day01` and put the necessary files in that folder.
 * Once you pushed out the solution to GitHub open a new issue on this repo (our shared repository) with a title:
     * `Day01 by Foo Bar`  (when you submit your assignment for Day01 and if your name is Foo Bar)
     * In the body include a link to the repository.
 
-* The Teaching Assistents and lecturer will comment on these issues.
+* The Teaching Assistants and lecturer will comment on these issues.
 
 ### Extensions
 
@@ -101,14 +105,14 @@ First you will need to submit a proposal for the project and when it is accepted
 The project should be something that is useful for your studies or at least it is fun for you to make.
 Ask in the lab where you work what needs are there that you might implement as your final project.
 You can get inspiration from the projects [listed here](https://code-maven.com/programming-bootcamp-for-scientists)
-and the preojects from the previous semesters:
+and the projects from the previous semesters:
 * [2023 autumn semester](https://github.com/szabgab/wis-python-bootcamp-2023-12)
 * [2024 spring semester](https://github.com/szabgab/wis-python-course-2024-04)
 * [2024 autumn semester](https://github.com/szabgab/wis-python-course-2024-11)
 * [2025 spring semester](https://github.com/code-Maven/wis-python-course-2025-03)
 
 The idea of the project is that you write something that is going to be useful for you beyond the course. e.g. There is some manual work in your lab and this project will automate it.
-It can be also a tool to help you with your research. etc. It can also be useful in your private life. e.g. we had projects trying to register for visa applications at the USA embasy
+It can be also a tool to help you with your research. etc. It can also be useful in your private life. e.g. we had projects trying to register for visa applications at the USA embassy
 and we also had games.
 
 You can even take an existing project and make some valuable improvements to that project. (e.g. one project from one of the previous courses).
@@ -224,7 +228,7 @@ Login to [Moodle](https://feinberg.weizmann.ac.il/) and you should be able to se
 ### Assignment (day 1)
 
 * Watch the 1st video: [Creating a website on GitHub Pages using Markdown](https://git.code-maven.com/git-maven/creating-a-website-on-github-pages-using-markdown)
-* Create a web site for yourself using GitHub pages. Remember to use the repository name `USERNAME.github.io`. Get ideas from the pages of the students in the previus courses.
+* Create a web site for yourself using GitHub pages. Remember to use the repository name `USERNAME.github.io`. Get ideas from the pages of the students in the previous courses.
 
 Link to your profile and the lab you are currently in. e.g.
 [Liron](https://weizmann.elsevierpure.com/en/persons/liron-hoffman/) is in the [Yonatan Stelzer Lab](https://www.weizmann.ac.il/mcb/Stelzer/group-members)
@@ -250,5 +254,160 @@ Using AI to solve the assignments? That's fine.
 However, in that case, please add a file called README.md in the `day01` folder of the repository you created for the assignments and put the name(s) of the AI system(s) and their version numbers along with the the prompt(s) you used in that file.
 
 * Dead-line: 2025.11.02 22:00
+
+## Day 2
+
+* We used Co-pilot to create a program that calculated the area of a triangle.
+* Getting input from the user in an interactive way using the `input` function.
+* Creating a GUI using Python / Tk.
+* At the end we created a command line version of it.
+
+### In-class assignments
+
+The students had one hour to practice and work on the assignment and already add it to the `day02` folder. I tried to collect the examples and add some comments so you can all learn from that.
+
+General notes:
+* Add some explanation of what does the project do?
+
+* Adi Moses
+    * [Area of a circle](https://github.com/ADI-mo/python-course-assignments/blob/main/day02/yp.py)
+        * Variable names and function parameter names should be lower case.
+* Adib Masharqa
+    * [DNA_complement](https://github.com/AdibM02/python-course-assignments/blob/main/day02/DNA_complement.py)
+* Aileen Cohen
+    * [DNA Sequence Validator & Translator](https://github.com/AileenCohen/Python_Course_Assignments/blob/main/Day02/Done_in_Class_Day02_Sequence_test.py)
+        * It is better to separate UI related code and "business"-related code.
+* Anvita Pant
+    * [A very nice readme!](https://github.com/pantanvita/wis-python-2025/tree/main/day01)
+    * [rectangle](https://github.com/pantanvita/wis-python-2025/blob/main/day02/rectangle.py)
+    * [circle](https://github.com/pantanvita/wis-python-2025/blob/main/day02/circle.py)
+        * It is better to put as little code outside of functions as possible and and that should be after all the function definition better use an `if __name__ == '__main__':` condition.
+* Ariel Hindi
+    * [circle in GUI as well](https://github.com/arielhindi/Python-Course-Assignments/tree/main/day02)
+* Avigail Yariv
+    * [Age calculator](https://github.com/AvigailYariv/python-course-assignments/blob/main/day02/class_assignment/age_model.py)
+        * Has type annotations!
+        * Code separation into various files.
+* Daniela Huppert Revach
+    * [circle, also with GUI](https://github.com/Danielahuppert/python-course-assignments/tree/main/day02)
+* David Ganem
+    * [AI in Italian](https://github.com/DVDGNM99/Python-assignments-main/blob/main/day%2002/notes.md)
+    * [area of a rectangle using GUI](https://github.com/DVDGNM99/Python-assignments-main/blob/main/day%2002/first_program.py)
+    * [area of circle](https://github.com/DVDGNM99/Python-assignments-main/blob/main/day%2002/area_circle_assigment.py)
+        * It is probably a better idea to use English variable and function names. (not raggio, area_cerchio, etc.) ti make the code accessible to people who don't know Italian. You can probably tell the AI to always use English words in the code.
+* Einav Litvak
+    * [area of a trapeze](https://github.com/einavlitvak/WIS-python-assignments-2025/blob/main/Day2/Trapeze_area.py)
+    * [area of a trapeze GUI](https://github.com/einavlitvak/WIS-python-assignments-2025/blob/main/Day2/Trapeze_area_gui.py)
+* Evyatar Shaked
+    * [area of circle GUI](https://github.com/Evyatar-shaked/Evyatar-Shaked_Assignments/blob/main/day02/circle_area.py)
+* Guy Vosco
+    * [circle area - nice and short!](https://github.com/guyvosco/python-course-assignments/blob/main/day02/circle_area.py)
+    * [circle area GUI](https://github.com/guyvosco/python-course-assignments/blob/main/day02/circle_area_gui.py)
+* Hallel Azulai
+    * [area of circle](https://github.com/hallelaz/python-course-assignments/blob/main/day02/day2.py)
+* Inbar Perets
+    * [circle area GUI](https://github.com/InbarPe/python-course-assignments/blob/main/day02/circle_area.py)
+* Lior Batat
+    * [circle area calculator GUI](https://github.com/liorbet13/python-course-assignments/blob/main/day02/circle_area_calculator.py)
+* Neta Hanuka
+    * [circle area](https://github.com/NetaHT/python-course-assignments-2025/blob/main/day02/circle_area.py)
+    * [circle area GUI](https://github.com/NetaHT/python-course-assignments-2025/blob/main/day02/GUI_circle_area.py)
+* Noam Ariel
+    * [a file reading example](https://github.com/NoamAriel/python-course-assignments/blob/main/day02/hello_world.py)
+    * [Calculate the required LiBr mass to achieve a desired LiBr concentration.](https://github.com/NoamAriel/python-course-assignments/blob/main/day02/LiBr_con_mass_LiBr.py)
+    * [Calculate the required H2O volume to achieve a desired LiBr concentration](https://github.com/NoamAriel/python-course-assignments/blob/main/day02/LiBr_con_volume_H2O.py)
+* Rachel Steinitz-Eliyahu
+    * [rectangle](https://github.com/RachelitaSE/python-course-assignments/blob/main/day02/rectangle.py)
+    * [rectangle cli](https://github.com/RachelitaSE/python-course-assignments/blob/main/day02/rectangle_cil.py)
+        * It is better not to import everything with a `*` but the specific things you need : `from shapes import rectangle_area`
+* Raz Leibson
+    * [example data](https://github.com/razlei25/python-course-assignments/tree/main/day01/Example_data)
+    * [cricle area GUI](https://github.com/razlei25/python-course-assignments/blob/main/day02/circle_area_calculator.py)
+* Rony Holdengreber
+    * [circle area GUI - manually?!](https://github.com/ronyho3008/python-course-assignments/blob/main/day02/lesson.py)
+        * It looks much simple as it seems this was created manually and not by using AI.
+* Sana Khatib
+    * [Zodiac profile GUI](https://github.com/sanakhatib4/sana-python-course-assignments2026/blob/main/day02/assignment2.py)
+        * Wonderful. One needs to install `ephem` and `pillow` to make it work.
+* Shelly Gilad
+    * [nice readme](https://github.com/ShellyGil/python-course-assignments/tree/main/day01)
+* Sriashwin Sridharan
+    * [circle area in 3 ways](https://github.com/Srriash/Srriash_WISasgn_2025/tree/main/Day_02)
+* Yana Lerner
+    * [prompts](https://github.com/YanaLerner10/python-course-assignments/blob/main/day01/chatgpt_help.md)
+    * [circle area in 2 ways](https://github.com/YanaLerner10/python-course-assignments/tree/main/day02)
+
+### Assignment (day 2)
+
+* If you don't have it yet create a folder called `day02`.
+* Put a file called `README.md` in which you will describe how you solved the assignment. If you use any AI tool, write down which AI tool you use, which version of it. If possible add a link to the tool. Write down the promotes you wrote. Only include the replies if you feel it is significantly adds to the understanding of the process. Use [GitHub Flavored Markdown](https://github.github.com/gfm/)
+
+* Try to run the examples written by othefs, especially the unique ones: (DNA, LiBR, H2O, Zodiac).
+* Implement some "interesting" computation. Create 3 different input mechanism. (interactive with `input`, `command line` as we saw in the last few minutes of the lecture and GUI.
+* What is "interesting", you might ask. Above you can see that many people implemented the area of a circle and rectangle that I mentioned in the class room. That's fine, but not too creative. Area of a trapeze is a bit better. Age calculator is also interesting. Way better are the "DNA Sequence Validator" and the LiBr mas and H2O volume calculators. The Zodiac profile GUI is very nice! Find something interesting in your lab, in your previous studies, or something totally unrelated and implement it with the 3 ways of input. You can even try to have your data in a file and make your code read from a file.
+* Add a one-sentence explanation what does this do. Include a README file explaining your process. You can write the whole code manually or using AI, but share your prompts!
+
+* Open a new issue on our repository titled "Day2 by Foo Bar", and include a link to your repository.
+
+* Dead-line: 2025.11.09 22:00
+
+
+### Day 2 assignments by students
+
+* Adi Moses
+    * [Growth curves of bacteria](https://github.com/ADI-mo/python-course-assignments/tree/main/day02)
+* Adib Masharqa
+    * [DNA_to_protein](https://github.com/AdibM02/python-course-assignments/tree/main/day02)
+* Aileen Cohen
+    * [translate and predict the disorder tendencies of a dna sequence](https://github.com/AileenCohen/Python_Course_Assignments/tree/main/Day02)
+    * [ool DNA samples at desired concentrations](https://github.com/AileenCohen/Python_Course_Assignments/tree/main/Day02) - CSV files
+* **Anvita Pant**
+    * [Polymerase Chain Reaction (PCR)](https://github.com/pantanvita/wis-python-2025/tree/main/day02)
+* **Arad Zulti**
+    * [Converter: Temprature (C, K, F) and distance (cm, inch)](https://github.com/aradzu10/python-course-assignments/tree/main/day02) with tests!
+* Ariel Hindi
+    * [baking ingredient conversions from grams to cups or reverse](https://github.com/arielhindi/Python-Course-Assignments/tree/main/day02)
+* **David Ganem**
+    * [NeuroRender to visualize selected brain regions from the ARA atlas](https://github.com/DVDGNM99/Python-assignments-main/tree/main/day%2002)
+* Daniela Huppert Revach
+    * [pixels_to_mm2](https://github.com/Danielahuppert/python-course-assignments/tree/main/day02)
+* Einav Litvak
+    * [Safe sound](https://github.com/einavlitvak/WIS-python-assignments-2025/tree/main/Day2)
+* Evyatar Shaked
+    * [dilution_calculator](https://github.com/Evyatar-shaked/Evyatar-Shaked_Assignments/tree/main/day02)
+* Guy Shemesh
+    * [Biology Unit Converter](https://github.com/guy-shemesh-weiz/python-course-assignments/tree/main/day02)
+* **Guy Vosco**
+    * [Travel expenses](https://github.com/guyvosco/python-course-assignments/tree/main/day02) - currency converter using the [Exchange rate API](https://www.exchangerate-api.com/)
+* **Hallel Azulai**
+    * [PCR cycle calculator](https://github.com/hallelaz/python-course-assignments/tree/main/day02) - exponential growth, bacterial growth
+* Inbar Perets
+    * [Mice weight and food calculator](https://github.com/InbarPe/python-course-assignments/tree/main/day02)
+* **Lihi Bolokan**
+    * [Nernst Potential Calculator](https://github.com/lihibolok/python-course-assignments/tree/main/day02)
+* **Lior Batat**
+    * [Taylor Swift Album Finder GUI](https://github.com/liorbet13/python-course-assignments/tree/main/day02)
+* Neta Hanuka
+    * [Date arithmetics](https://github.com/NetaHT/python-course-assignments-2025/tree/main/day02)
+* Noam Ariel
+    * [LiBr calculator](https://github.com/NoamAriel/python-course-assignments/tree/main/day02)
+* Raz Leibson
+    * [Gematria calculator](https://github.com/razlei25/python-course-assignments/blob/main/day02/)
+* Rony Holdengreber
+    * [Dilution: Calculate V1 (volume of stock) and Vbuffer (diluent) in ml.](https://github.com/ronyho3008/python-course-assignments/tree/main/day02/home%20assignment)
+    * [prompts in Hebrew](https://github.com/ronyho3008/python-course-assignments/blob/main/day02/home%20assignment/dilution_chatgpt.md)
+* Sharonelle Sasson
+    * [Gregorian to Hebrew Date Converter](https://github.com/sasasson/python-course-assignments/tree/main/day02)
+* Shelly Gilad
+    * [PCR_Calculator](https://github.com/ShellyGil/python-course-assignments/tree/main/day02)
+* Shoshana Sernik
+    * [extension time for a PCR reaction](https://github.com/shoshisernik/python-course-assignments/tree/main/day02)
+* **Sriashwin Sridharan**
+    * [growth rate and doubling time of any bacteria and suggest average time and rate of the given bacteria](https://github.com/Srriash/Srriash_WISasgn_2025/tree/main/Day_02)
+    * scientific name generator
+    * Oral Microbiome and Health Assessment
+* Yana Lerner
+    * [Birthday calcluator](https://github.com/YanaLerner10/python-course-assignments/tree/main/day02)
+
 
 

@@ -88,6 +88,10 @@ and **not** in the order they are mentioned here.
 
 * The Python standard library
 
+* 3rd party libraries [pypi](https://pypi.org/)
+    * pip
+    * uv
+
 * Modularization and code-reuse
     * Functions
     * Modules
