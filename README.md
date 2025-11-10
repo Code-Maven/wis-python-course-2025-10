@@ -492,7 +492,7 @@ When picking a student select one who does NOT yet have 2 issues. This way every
 * Once you received such an issue, react to it. If needed, ask for clarification. When you feel you have fulfilled the request (or decided you don't want to do that) close it.
 
 * Copy your project from the `day02` folder to the new `day03` folder. Move the "business logic" (the computation) to a separate file and make the main program use it. It is enought to have one way to use it GUI/command line/STDIN. Pick the one you prefer. Of course if you like you can have more of them.
-* Add some tests. Make sure you can run the tests. Look at the tests and make sure they test the code properly.
+* Add some tests, especially to check the "business logic". Make sure you can run the tests. Look at the tests and make sure they test the code properly.
 * Replace your code with some 3rd-party library when possible.
 * Add a README.md explaining how to install dependencies, if there are any. Also explain how you used AI (include the prompts).
 
