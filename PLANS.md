@@ -6,6 +6,8 @@
 * Show the titles of the issues for day 1.
 * Remove `__pycache__` https://github.com/arielhindi/Python-Course-Assignments/tree/main/day02 and add it to `.gitignore`
 
+* Manually write a module, use it and test it. (trianlge from day2 ?), check the code from day3
+
 * Go over the CLI example from day02
 
 * [DNA_complement](https://github.com/AdibM02/python-course-assignments/blob/main/day02/DNA_complement.py)
