@@ -1,5 +1,19 @@
 ## Day 4
 
+* "I could not run your program", "there was an error" etc. These are not very useful reports.
+It is much better to describe what you did and what do you see (e.g. what error messages).
+Some people included screenshots of the problems they saw in the GUI. That's excellent.
+On the other hand, for textual error messages from the terminal include the text in the report, not the screenshot of it.
+Include the Operating System and its version (e.g. Windows 10), the language of your OS if that might be relevant (e.g. English, Hebrew, Arabic, Spanish, Italian etc.)
+Especially the RTL languages can create trouble.
+Include the version of Python you use.
+
+
+Some people reported that tkinter does not work well with RTL languages such as Hebrew and Aarbic.
+You might want to experiment with other GUI toolkits that look nicer and also support RTL text.
+Ask the AI to suggest you a GUI framework.
+
+
 * The grammar of Python see the [SYLLABUS](SYLLABUS.md)
 
 * Circle: `pi = 3.14` or `math.pi`
@@ -26,7 +40,6 @@
 
 * Show the subject-lines of the issue and how there are at least 4 different types. How could we write code that recognizes them?
 
-* Suggest the students to experiment with other GUI toolkits that look nicer and also support RTL text.
 
 
 ### Assignment (day )
