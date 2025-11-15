@@ -26,7 +26,7 @@
 
 * Show the subject-lines of the issue and how there are at least 4 different types. How could we write code that recognizes them?
 
-* Suggest the students to experiment with other GUI toolkits
+* Suggest the students to experiment with other GUI toolkits that look nicer and also support RTL text.
 
 
 ### Assignment (day )
