@@ -502,14 +502,111 @@ When picking a student select one who does NOT yet have 2 issues. This way every
 
 ## Day 4
 
-https://www.ncbi.nlm.nih.gov/nuccore/?term=silk+fibroin+animal
+### Summary
 
+#### Issue subject lines
+
+* See the subject-lines of the issue and how there are at least 4 different types. How could we write code that recognizes them?
+
+#### Use math
+
+* Circle: `pi = 3.14` or `import math` and then use `math.pi`
+
+#### How to report problems?
+
+"I could not run your program", "There was an error" etc. These are not very useful reports.
+
+It is much better to describe what you did and what you saw (e.g. what was the error messages) and make it easy for the developer to reproduce the problem.
+
+What you did, what you expected (if it is not obvious), what you actually received?
+
+Some people included screenshots of the problems they saw in the GUI. That's excellent.
+
+On the other hand, for textual error messages from the terminal include the text in the report, not the screenshot of it.
+
+It is often useful to include the operating system and its version (e.g. Windows 10), the language of your OS if that might be relevant (e.g. English, Hebrew, Arabic, Spanish, Italian etc.)
+Especially the RTL languages can create trouble. Include the version of Python you use. (run `python --version`)
+
+#### RTL languages
+
+Some people reported that Tk (tkinter) does not work well with RTL languages such as Hebrew and Arabic.
+You might want to experiment with other GUI toolkits that look nicer and also support RTL text.
+Ask the AI to suggest you a GUI framework.
+
+#### Remove `__pycache__` from git
+
+```
+git rm -r __pycache__
+git commit -m "remove generated files"
+```
+Create a file called `.gitignore` in the root of the git repository and put the name of the folder you'd like git to ignore. See the `.gitignore` file in this repository.
+
+#### Manually write a module, use it and test it.
+
+We created manually the following files:
+
+```
+day04/rectangle.py
+day04/rectangle_stdin.py
+day04/shapes.py
+day04/test_shapes.py
+```
+
+Add pytest as a development dependency.
+
+```
+uv init
+uv add --dev pytest
+```
+
+This created the following files:
+
+```
+pyproject.toml
+uv.lock
+```
+
+* [TOML](https://toml.io/en/) is a file-format often used for configuration files.
+
+#### NCBI
+
+We searched for [silk fibroin animal](https://www.ncbi.nlm.nih.gov/nuccore/?term=silk+fibroin+animal) in the nucleotide database of NCBI and wanted to get some sequence from there.
+
+> in the day04 folder create a command line program that will receive a search term and down the first 2 hits from the nucleotide database on ncbi
+
+It created
+
+```
+ncbi_search.py
+ncbi_search_README.md
+```
 
 * [Scientific Python slides](https://python.code-maven.com/python-science/)
+
+### Assignment (day 4)
+
+1. Remove the `__pycache__` folder(s) from your repository and make sure it won't be added again by mistake.
+
+2. Find a web site that has some data you'd like to use. In the lecture these were suggested. Use these to give you direction, you can pick any web site you find interesting.
+It can be related to any type of science, or anything else really. The important part is that it will be in some way interesting to you so you can also explain about it.
 
 * [NCBI](https://www.ncbi.nlm.nih.gov/)
 * [UniProt](https://www.uniprot.org/)
 * [FlyBase](https://flybase.org/)
 * [ChEMBL](https://www.ebi.ac.uk/chembl/)
 * [GeneCards](https://www.genecards.org/)
+
+In the `day04` folder write a program that will download some data from the selected web site and save it locally in a file or in multiple files.
+Separate the "business logic" and the UI (User Interface), the way the program interacts with the user. Pick whatever UI method you like.
+If you need to provide your email addres or if you need to use some API secrets, makes sure thos are saved in a separate file and make your code read these values from that file.
+Make sure the file does not get added to git by adding its name to `.gitignore`.
+
+In the `day04/README.md` explain in a few words what your program does. Include links where necessary.
+Also include any interaction you had with the AI.
+
+Once you feel you are done, ask someone in the course to check your program based on what they see in the README. If they have any questions, use that to improve the README or the code.
+
+Once you are done with the improvements open an issue on our repository and in the issue also mention the person who reviewed your application using the `@`-notation.
+
+* Dead-line: 2025.11.23 22:00
 
