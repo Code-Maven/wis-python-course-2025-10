@@ -500,4 +500,16 @@ When picking a student select one who does NOT yet have 2 issues. This way every
 
 * Dead-line: 2025.11.16 22:00
 
+## Day 4
+
+https://www.ncbi.nlm.nih.gov/nuccore/?term=silk+fibroin+animal
+
+
+* [Scientific Python slides](https://python.code-maven.com/python-science/)
+
+* [NCBI](https://www.ncbi.nlm.nih.gov/)
+* [UniProt](https://www.uniprot.org/)
+* [FlyBase](https://flybase.org/)
+* [ChEMBL](https://www.ebi.ac.uk/chembl/)
+* [GeneCards](https://www.genecards.org/)
 
