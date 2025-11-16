@@ -1,7 +1,16 @@
 ## Day 4
 
-* "I could not run your program", "there was an error" etc. These are not very useful reports.
-It is much better to describe what you did and what do you see (e.g. what error messages).
+* Show the subject-lines of the issue and how there are at least 4 different types. How could we write code that recognizes them?
+
+* How to report problems?
+
+"I could not run your program", "There was an error" etc. These are not very useful reports.
+
+It is much better to describe what you did and what you saw (e.g. what was the error messages).
+
+How to reproduce the problem.
+What you did, what you expected, what you actually received.
+
 Some people included screenshots of the problems they saw in the GUI. That's excellent.
 On the other hand, for textual error messages from the terminal include the text in the report, not the screenshot of it.
 Include the Operating System and its version (e.g. Windows 10), the language of your OS if that might be relevant (e.g. English, Hebrew, Arabic, Spanish, Italian etc.)
@@ -38,7 +47,6 @@ Ask the AI to suggest you a GUI framework.
 * Read data from a file: CSV file, Excel file
 
 
-* Show the subject-lines of the issue and how there are at least 4 different types. How could we write code that recognizes them?
 
 
 
