@@ -17,6 +17,8 @@
 * Read data from a file: CSV file, Excel file
 
 
+Run `gh issue list -s all -L 100` to list all the issues and save them in a file.
+Write a program that will extract the day number and the name.
 
 
 
