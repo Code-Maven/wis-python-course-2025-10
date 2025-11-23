@@ -1,6 +1,9 @@
-## Day 4
+## Day 5
+
+* Show building the copilot-instructions.md file.
 
 * The grammar of Python see the [SYLLABUS](SYLLABUS.md)
+
 
 * Go over the CLI example from day02
 
