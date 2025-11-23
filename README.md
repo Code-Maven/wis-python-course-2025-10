@@ -610,3 +610,21 @@ Once you are done with the improvements open an issue on our repository and in t
 
 * Dead-line: 2025.11.23 22:00
 
+## Day 5
+
+* Show building the copilot-instructions.md file.
+
+* The grammar of Python see the [SYLLABUS](SYLLABUS.md) - data types.
+
+* [JSON](www.json.org/)
+* [ASCII](https://www.ascii-code.com/)
+* [Unicode](https://home.unicode.org/)
+
+* [Open files](https://python.code-maven.com/python-programming/files/)
+
+### Assignment (day 5)
+
+TBD
+
+* Dead-line: 2025.11.29 22:00
+

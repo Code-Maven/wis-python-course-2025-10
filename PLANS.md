@@ -1,6 +1,5 @@
-## Day 5
+## Day 6
 
-* Show building the copilot-instructions.md file.
 
 * The grammar of Python see the [SYLLABUS](SYLLABUS.md)
 
