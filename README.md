@@ -612,6 +612,8 @@ Once you are done with the improvements open an issue on our repository and in t
 
 ## Day 5
 
+### Notes
+
 * Show building the copilot-instructions.md file.
 
 * The grammar of Python see the [SYLLABUS](SYLLABUS.md) - data types.
@@ -624,7 +626,19 @@ Once you are done with the improvements open an issue on our repository and in t
 
 ### Assignment (day 5)
 
-TBD
+1. Ask co-pilot to create `.github/copilot-instructions.md`, read it and update it to better fit your needs.
 
-* Dead-line: 2025.11.29 22:00
+2. In the `day05` folder implement a game, try to do it without consulting AI. Add tests. Include a README explaining how to install the dependencies if there are any and how to use the game.
+Ask a fellow student to try it. If they have issues or questions fix them or answer them in the README so we won't encounter those issues any more.
+
+Either pick one I already described, or better yet something totally different.
+
+* [Number guessing game](https://python.code-maven.com/python-programming/exercise-number-guessing-game)
+* [Master Mind](https://python.code-maven.com/python-programming/exercise-mastermind)
+
+* Actually, I asked ChatGPT to suggest a game using this prompt: "What simple games are there that can be a relatively simple problem to implement as a programming exercise in Python?" and got some nice suggestions. You can search for something else. You can implement some science-related game. e.g. one that helps you practice something you have (or had) hard time to understand and learn.
+
+* Submit in the usual way by opening an issue.
+
+* Dead-line: 2025.11.29 22:00 (Saturday evening)
 
