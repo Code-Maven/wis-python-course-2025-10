@@ -642,3 +642,29 @@ Either pick one I already described, or better yet something totally different.
 
 * Dead-line: 2025.11.29 22:00 (Saturday evening)
 
+## Day 6
+
+### Notes
+
+* [files](https://python.code-maven.com/python-programming/files/)
+* [Exception handling](https://python.code-maven.com/python-exceptions/)
+* [subprocess](https://python.code-maven.com/python-programming/subprocess/subprocess-other)
+
+### Assignment (day 6)
+
+* Take one (or more) of the eariler assignments and convert them into a stand-alone project in their own repository.
+* e.g. if you implemented the "Number guessing game" you might want to call the repository "number-guessing-game".
+* If your project is "The NCBI fibroin scapper" it should be probably in a repository called ncbi-fibroin-scapper.
+* Add a `README.md` file describing the project.
+* Add the `.gitignore` file.
+* If you use co-pilot then generate the .github/copilot-instructions.md file as I did during the class. Commit it and then update it as you feel fit. Other AI tools might have other files.
+* Enable "GitHub pages" for this repository: Go to Settings/Pages and set the Source to be "Deploy from a branch" and select the "Branch" to be "main" and the folder to be root. Once you did this GitHub will generate the site from your README.md and you will be see it at `https://USERNAME.github.il/number-guessing-game` (if the name of the repository is `number-guessing-game`.
+* Make some improvement to your project. Fix some bugs, add a new feature etc. Maybe ask fellow students what kind of improvements would they like to see in the project.
+* Try to make use of file-handling we learned in the last two sessions.
+
+* Submit in the usual way by opening an issue and linking to it.
+
+* Dead-line: 2025.12.06 22:00 (Saturday evening)
+
+
+
