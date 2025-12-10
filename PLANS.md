@@ -1,4 +1,8 @@
-## Day 6
+## Day 7
+
+* Code reuse, functions, modules
+* OOP: classes.
+
 
 
 * The grammar of Python see the [SYLLABUS](SYLLABUS.md)

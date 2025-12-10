@@ -666,8 +666,20 @@ Either pick one I already described, or better yet something totally different.
 
 * Start working on your final project. Actually I am ok with this one to become your final project if you feel this is imporant enough and that you can enhance it 3-4 times of what it is now. (In terms of value it gives you and others.)
 
-
 * Dead-line: 2025.12.06 22:00 (Saturday evening)
 
+## Day 7
 
+### Notes
 
+* [Code-reuse](https://python.code-maven.com/python-programming/code-reuse/)
+* [Functions](https://python.code-maven.com/python-programming/functions/)
+* Linters - Static Analyzers
+* A few words about
+    * [OOP - Object Oriented Programming](https://python.code-maven.com/python-oop/)
+    * [Functional Programming](https://python.code-maven.com/python-functional-programming/)
+* Complexity O(n), O(n^2)
+
+### Assignment (day 7)
+
+TBD
