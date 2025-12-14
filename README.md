@@ -76,8 +76,9 @@ Course number: 20263071
 * [Day 7](#Day-7) 2025.12.07 9:15-12:00
 * [Day 8](#Day-8) 2025.12.14 9:15-12:00 ?? First light of Hanukkah
 * 2025.12.21 7th light of Hanukkah
-* [Day 9](#Day-9) 2025.12.28 9:15-12:00
-* [Day 10](#Day-10) 2026.01.04 9:15-12:00
+* ~~2025.12.28 Postponed~~
+* [Day 9](#Day-9) 2026.01.04 9:15-12:00
+* [Day 10](#Day-10) 2026.01.11 9:15-12:00
 
 
 ### Assignments
@@ -683,3 +684,27 @@ Either pick one I already described, or better yet something totally different.
 ### Assignment (day 7)
 
 TBD
+
+## Day 8
+
+### Notes
+
+* Setting up virtualenv on the command line and in VS Code
+* [Jupyter notebook](https://python.code-maven.com/python-jupyter/)
+* [Pandas and Numpy](https://python.code-maven.com/python-science/)
+* [Kaggle](https://www.kaggle.com/)
+
+### Assignment (day 8)
+
+* Take a data set (a CSV or Excel file) and make some interesting analyzis. Interesting to you.
+* Create some nice graphs.
+* You can use one of your own data sets or you can generate one, you can find one on the Internet and use that.
+* Kaggle has a lot of interesting ones.
+* Use Pandas and Numpy for it.
+* You can either put this in your assignment repo or a stand-alone repository, if you feel this might be interesting to other people as well.
+
+Note, our next lecture is on January 4!
+
+
+* Dead-line: 2025.12.30 22:00 (Tuesday evening)
+
