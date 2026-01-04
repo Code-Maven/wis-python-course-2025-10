@@ -708,3 +708,28 @@ Note, our next lecture is on January 4!
 
 * Dead-line: 2025.12.30 22:00 (Tuesday evening)
 
+
+## Day 9
+
+### Notes
+
+* [Regular Expressions](https://python.code-maven.com/python-regexes/)
+* [Machine Learning](https://python.code-maven.com/python-machine-learning/) (first example)
+
+### Assignment (day 9)
+
+* Given the data in the `day09/subjects.txt` file and the dead-lines in this README file write a program that will create a report that can be useful to us. Some ideas:
+    1. Students that have not submitted certain assignments.
+    1. Students who submitted after the dead-line.
+    1. Distribution of the submittal time relative to the dead-line.
+    1. Popularity of the various subject formats.
+    1. etc...
+
+* Dead-line: 2026.01.10 22:00 (Saturday evening)
+
+* Project proposal dead-line: 2026.01.11 22:00 (Sunday evening)
+
+* Project submission dead-line: 2026.01.25 22:00 (Sunday evening)
+
+
+
