@@ -732,4 +732,11 @@ Note, our next lecture is on January 4!
 * Project submission dead-line: 2026.01.25 22:00 (Sunday evening)
 
 
+## Day 10
+
+### Notes
+
+* [Machine Learning](https://python.code-maven.com/python-machine-learning/) (we covered a few examples)
+
+
 
