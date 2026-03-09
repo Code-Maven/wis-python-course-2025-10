@@ -113,8 +113,7 @@ and the projects from the previous semesters:
 * [2025 spring semester](https://github.com/code-Maven/wis-python-course-2025-03)
 
 The idea of the project is that you write something that is going to be useful for you beyond the course. e.g. There is some manual work in your lab and this project will automate it.
-It can be also a tool to help you with your research. etc. It can also be useful in your private life. e.g. we had projects trying to register for visa applications at the USA embassy
-and we also had games.
+It can be also a tool to help you with your research. etc. It can also be useful in your private life. e.g. we had projects trying to register for visa applications at the USA embassy and we also had games.
 
 You can even take an existing project and make some valuable improvements to that project. (e.g. one project from one of the previous courses).
 
