@@ -342,7 +342,7 @@ General notes:
 * If you don't have it yet create a folder called `day02`.
 * Put a file called `README.md` in which you will describe how you solved the assignment. If you use any AI tool, write down which AI tool you use, which version of it. If possible add a link to the tool. Write down the promotes you wrote. Only include the replies if you feel it is significantly adds to the understanding of the process. Use [GitHub Flavored Markdown](https://github.github.com/gfm/)
 
-* Try to run the examples written by othefs, especially the unique ones: (DNA, LiBR, H2O, Zodiac).
+* Try to run the examples written by others, especially the unique ones: (DNA, LiBR, H2O, Zodiac).
 * Implement some "interesting" computation. Create 3 different input mechanism. (interactive with `input`, `command line` as we saw in the last few minutes of the lecture and GUI.
 * What is "interesting", you might ask. Above you can see that many people implemented the area of a circle and rectangle that I mentioned in the class room. That's fine, but not too creative. Area of a trapeze is a bit better. Age calculator is also interesting. Way better are the "DNA Sequence Validator" and the LiBr mas and H2O volume calculators. The Zodiac profile GUI is very nice! Find something interesting in your lab, in your previous studies, or something totally unrelated and implement it with the 3 ways of input. You can even try to have your data in a file and make your code read from a file.
 * Add a one-sentence explanation what does this do. Include a README file explaining your process. You can write the whole code manually or using AI, but share your prompts!
